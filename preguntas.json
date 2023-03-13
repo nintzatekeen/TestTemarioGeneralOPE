@@ -1,22 +1,220 @@
 [
     {
-        "id": 0,
-        "pregunta": "",
+        "id": 1,
+        "pregunta": "EN UN HOSPITAL GENERAL, EL CAMBIO DE ROPA DE LAS CAMAS Y DE LOS PACIENTES ES MÁS FRECUENTE, PUDIÉNDOSE ADMITIR EL CAMBIO DIARIO DE LA MISMA HASTA UN TOTAL DE:",
         "respuestas": [
             {
-                "texto": "",
+                "texto": "6 kg./lecho/día.",
                 "correcta": false
             },
             {
-                "texto": "",
+                "texto": "4 kg./lecho/día.",
+                "correcta": true
+            },
+            {
+                "texto": "2 kg./lecho/día.",
                 "correcta": false
             },
             {
-                "texto": "",
+                "texto": "1 kg./lecho/día.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pregunta": "LA LAVADORA DE DESINFECCIÓN SE CARACTERIZA POR:",
+        "respuestas": [
+            {
+                "texto": "Poseer dos puertas.",
                 "correcta": false
             },
             {
-                "texto": "",
+                "texto": "Tener tambores de acero inoxidable.",
+                "correcta": false
+            },
+            {
+                "texto": "Contar con un dispositivo automático de apertura.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "pregunta": "EL EQUIPAMIENTO QUE SE DESTINA A SECAR Y A PLANCHAR LA ROPA AL MISMO TIEMPO SE DENOMINA:",
+        "respuestas": [
+            {
+                "texto": "Cabina.",
+                "correcta": false
+            },
+            {
+                "texto": "Extractor.",
+                "correcta": false
+            },
+            {
+                "texto": "Calandra.",
+                "correcta": true
+            },
+            {
+                "texto": "Prensa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "pregunta": "LA CABINA O TÚNEL DE ACABADO ES ESPECIALMENTE INTERESANTE PARA:",
+        "respuestas": [
+            {
+                "texto": "Artículos de punto.",
+                "correcta": false
+            },
+            {
+                "texto": "Artículos de fibras sintéticas.",
+                "correcta": false
+            },
+            {
+                "texto": "Las dos anteriores son correctas.",
+                "correcta": true
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "pregunta": "EL AGUA UTILIZADA EN LA LAVANDERÍA DEBE TENER, POR LO MENOS, COMO REQUISITO:",
+        "respuestas": [
+            {
+                "texto": "No contener hierro ni manganeso.",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser “blanda”.",
+                "correcta": false
+            },
+            {
+                "texto": "No debe contener materia orgánica.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "pregunta": "EN EL PROCESAMIENTO DE LA ROPA HOSPITALARIA, LA QUE SE DEBE INTRODUCIR EN LOS SACOS DE PLÁSTICO AUTOSOLUBLES ES LA:",
+        "respuestas": [
+            {
+                "texto": "Ropa reciclable.",
+                "correcta": false
+            },
+            {
+                "texto": "Ropa sucia.",
+                "correcta": false
+            },
+            {
+                "texto": "Ropa contaminada.",
+                "correcta": true
+            },
+            {
+                "texto": "Ropa esterilizada.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "pregunta": "UN BUEN LAVADO EMPIEZA CON LA SEPARACIÓN DE LA ROPA SUCIA, QUE SE CLASIFICARÁ SEGÚN:",
+        "respuestas": [
+            {
+                "texto": "El grado de suciedad, tamaño y tipo de tejido.",
+                "correcta": false
+            },
+            {
+                "texto": "El grado de suciedad, tamaño y color.",
+                "correcta": false
+            },
+            {
+                "texto": "El grado de suciedad, nivel de deterioro y color.",
+                "correcta": false
+            },
+            {
+                "texto": "El grado de suciedad, tipo de tejido y color.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "pregunta": "DURANTE LA SEPARACIÓN, LA ROPA ES AGRUPADA EN LOTES O FARDOS CORRESPONDIENTES A UNA FRACCIÓN DE LA CAPACIDAD DE LA MÁQUINA:",
+        "respuestas": [
+            {
+                "texto": "En general, 50% de sus capacidades de lavado.",
+                "correcta": false
+            },
+            {
+                "texto": "Entre el 40% y 80% de sus capacidades de lavado.",
+                "correcta": false
+            },
+            {
+                "texto": "Por encima del 50% de sus capacidades de lavado.",
+                "correcta": false
+            },
+            {
+                "texto": "En general, 80% de sus capacidades de lavado.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "pregunta": "EN EL PROCESAMIENTO DE LA ROPA HOSPITALARIA, TERMINADAS LAS OPERACIONES DE RECEPCIÓN, SEPARACIÓN, PESAJE Y LAVADO:",
+        "respuestas": [
+            {
+                "texto": "Toda el área debe ser ordenada.",
+                "correcta": false
+            },
+            {
+                "texto": "Toda el área debe ser desinfectada y lavada.",
+                "correcta": true
+            },
+            {
+                "texto": "Se hace control de stock.",
+                "correcta": false
+            },
+            {
+                "texto": "Se realiza el cambio de turno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "pregunta": "LOS PRINCIPIOS ASOCIADOS EN EL PROCESO DEL LAVADO SON DE ORDEN:",
+        "respuestas": [
+            {
+                "texto": "Físico.",
+                "correcta": false
+            },
+            {
+                "texto": "Químico.",
+                "correcta": false
+            },
+            {
+                "texto": "Físico y químico.",
+                "correcta": true
+            },
+            {
+                "texto": "Electromecánico.",
                 "correcta": false
             }
         ]
