@@ -218,5 +218,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 11,
+        "pregunta": "EN GENERAL, ¿QUÉ CANTIDAD DEL AGUA UTILIZADA EN EL LAVADO ES TIBIA O CALIENTE?",
+        "respuestas": [
+            {
+                "texto": "Del 5 al 15%.",
+                "correcta": false
+            },
+            {
+                "texto": "Del 15 al 25%.",
+                "correcta": true
+            },
+            {
+                "texto": "Del 25 al 35%.",
+                "correcta": false
+            },
+            {
+                "texto": "Del 35 al 45%.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "pregunta": "LA ACIDULACIÓN CONSISTE EN:",
+        "respuestas": [
+            {
+                "texto": "Adicionar un producto ácido durante el blanqueado para bajar el pH y neutralizar los residuos alcalinos de la ropa.",
+                "correcta": false
+            },
+            {
+                "texto": "Adicionar un producto ácido en el último aclarado para bajar el pH y neutralizar los residuos alcalinos de la ropa.",
+                "correcta": true
+            },
+            {
+                "texto": "Adicionar un producto ácido en el último aclarado para subir el pH.",
+                "correcta": false
+            },
+            {
+                "texto": "Adicionar en el último enjuague de determinados tejidos, un producto que contiene glicerina en su composición.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "pregunta": "PARA CONSEGUIR UNA DESINFECCIÓN COMPLETA EN EL LAVADO DE ROPA DEBE USARSE:",
+        "respuestas": [
+            {
+                "texto": "La temperatura de 65 a 75ºC durante 15 minutos.",
+                "correcta": false
+            },
+            {
+                "texto": "La temperatura de 75 a 85 ºC, durante 10 minutos.",
+                "correcta": false
+            },
+            {
+                "texto": "La temperatura de 85 a 95 ºC, durante 15 minutos.",
+                "correcta": true
+            },
+            {
+                "texto": "La temperatura de 100 ºC, durante 10 minutos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "pregunta": "LA ELIMINACIÓN DE LAS BACTERIAS PATÓGENAS PRESENTES EN LA ROPA SE CONSIGUE MEDIANTE LA:",
+        "respuestas": [
+            {
+                "texto": "Acidulación.",
+                "correcta": false
+            },
+            {
+                "texto": "Clorodesinfección.",
+                "correcta": true
+            },
+            {
+                "texto": "Vaporización.",
+                "correcta": false
+            },
+            {
+                "texto": "Glicerinación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "pregunta": "UNA MANCHA DE SANGRE DE UN TEJIDO SE PUEDE ELIMINAR CON:",
+        "respuestas": [
+            {
+                "texto": "Un prelavado con agua caliente.",
+                "correcta": false
+            },
+            {
+                "texto": "Un prelavado con agua fría.",
+                "correcta": true
+            },
+            {
+                "texto": "Leche.",
+                "correcta": false
+            },
+            {
+                "texto": "Limón y sal en agua caliente.",
+                "correcta": false
+            }
+        ]
     }
 ]
