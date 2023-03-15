@@ -328,5 +328,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 16,
+        "pregunta": "DENTRO DEL PROCESO DE LA ROPA EN EL ÁREA LIMPIA, LA ROPA SELECCIONADA ES DISTRIBUIDA PARA EL SECADO EN LA SIGUIENTE PROPORCIÓN:",
+        "respuestas": [
+            {
+                "texto": "35% para el calandrado, 35% para la secadora y 30% para el prensado o planchado.",
+                "correcta": false
+            },
+            {
+                "texto": "45% para el calandrado, 35% para la secadora y 20% para el prensado o planchado.",
+                "correcta": false
+            },
+            {
+                "texto": "55% para el calandrado, 35% para la secadora y 10% para el prensado o planchado.",
+                "correcta": false
+            },
+            {
+                "texto": "70% para el calandrado, 25% para la secadora y 5% para el prensado o planchado.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "pregunta": "¿CUÁL DE LOS SIGUIENTES ES UN ELEMENTO DEL ÁREA FÍSICA, COMPLEMENTA EL ÁREA LIMPIA Y CANALIZA EL MOVIMIENTO DE TODA LA ROPA DEL HOSPITAL?",
+        "respuestas": [
+            {
+                "texto": "El ropero.",
+                "correcta": true
+            },
+            {
+                "texto": "El vestidor.",
+                "correcta": false
+            },
+            {
+                "texto": "La lavandería.",
+                "correcta": false
+            },
+            {
+                "texto": "El vestuario.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "pregunta": "EL/LOS MECANISMO/S DE CONTROL MÁS USADO/S EN LAVANDERÍA ES/SON:",
+        "respuestas": [
+            {
+                "texto": "La supervisión.",
+                "correcta": false
+            },
+            {
+                "texto": "La observación.",
+                "correcta": false
+            },
+            {
+                "texto": "La valoración.",
+                "correcta": false
+            },
+            {
+                "texto": "Las respuestas a) y c) son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "pregunta": "SIRVEN PARA DETECTAR RESIDUOS DE JABÓN, ACIDULANTE, CLORO Y OTROS PRODUCTOS, EN LA ROPA LIMPIA, MIENTRAS ESTÉ MOJADA:",
+        "respuestas": [
+            {
+                "texto": "Pruebas de pH de productos y del agua.",
+                "correcta": false
+            },
+            {
+                "texto": "Pruebas de presencia de los residuos.",
+                "correcta": true
+            },
+            {
+                "texto": "Pruebas bacteriológicas.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son válidas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "pregunta": "SEÑALA EL REQUISITO INNECESARIO EN UN BUEN PROGRAMA DE LIMPIEZA HOSPITALARIA:",
+        "respuestas": [
+            {
+                "texto": "Buen personal.",
+                "correcta": false
+            },
+            {
+                "texto": "Equipo adecuado.",
+                "correcta": false
+            },
+            {
+                "texto": "Flexibilidad de horarios.",
+                "correcta": true
+            },
+            {
+                "texto": "Procedimientos de limpieza modernos.",
+                "correcta": false
+            }
+        ]
     }
 ]
