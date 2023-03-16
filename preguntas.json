@@ -438,5 +438,269 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 21,
+        "pregunta": "SEÑALA LA CORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Se debe utilizar mopas de algodón de 16 onzas (unos 453 gr.) para las habitaciones con enfermos.",
+                "correcta": false
+            },
+            {
+                "texto": "Se debe utilizar mopas de algodón de 24 onzas (unos 680 gr.) en las zonas públicas.",
+                "correcta": false
+            },
+            {
+                "texto": "Se debe utilizar mopas de 12 pulgadas (unos 30 cm) para zonas más estrechas.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "pregunta": "EN LA LIMPIEZA DE VENTANAS, LA SEGUNDA PASADA DEBE HACERSE:",
+        "respuestas": [
+            {
+                "texto": "Empezando por la superficie seca, por la esquina derecha de la parte superior de la ventana.",
+                "correcta": false
+            },
+            {
+                "texto": "Empezando por la superficie seca, por la esquina izquierda de la parte inferior de la ventana.",
+                "correcta": false
+            },
+            {
+                "texto": "Empezando por la superficie seca, por la esquina izquierda de la parte superior de la ventana.",
+                "correcta": true
+            },
+            {
+                "texto": "Empezando por la superficie mojada, por la esquina izquierda de la parte superior de la ventana.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "pregunta": "EN RELACIÓN CON LA APLICACIÓN Y ACABADO DE RESINA EN MESAS (MUEBLES):",
+        "respuestas": [
+            {
+                "texto": "Haga una pasada, o sea, una capa.",
+                "correcta": false
+            },
+            {
+                "texto": "Haga dos pasadas, o sea, dos capas.",
+                "correcta": false
+            },
+            {
+                "texto": "Haga tres pasadas, o sea, tres capas.",
+                "correcta": true
+            },
+            {
+                "texto": "No es recomendable su uso.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "pregunta": "EL PROCEDIMIENTO DE ESTERILIZACIÓN DE LAS HABITACIONES HOSPITALARIAS CONLLEVA:",
+        "respuestas": [
+            {
+                "texto": "Esperar 24 horas después del fumigado antes de entrar en la habitación.",
+                "correcta": false
+            },
+            {
+                "texto": "Esperar 12 horas después del fumigado antes de entrar en la habitación.",
+                "correcta": false
+            },
+            {
+                "texto": "Esperar 1 hora después del fumigado antes de entrar en la habitación.",
+                "correcta": false
+            },
+            {
+                "texto": "Esperar 30 minutos después del fumigado antes de entrar en la habitación.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "pregunta": "LA LIMPIEZA Y DESINFECCIÓN TERMINAL EN ÁREAS CRÍTICAS SE HACE:",
+        "respuestas": [
+            {
+                "texto": "Diariamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando sale un paciente infectado.",
+                "correcta": false
+            },
+            {
+                "texto": "Periódicamente cada 8 días.",
+                "correcta": false
+            },
+            {
+                "texto": "b y c son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "pregunta": "BACTERIOSTÁTICO ES:",
+        "respuestas": [
+            {
+                "texto": "Cualquier agente químico que destruye las bacterias.",
+                "correcta": false
+            },
+            {
+                "texto": "Cualquier agente químico que retrasa o inhibe el crecimiento de las bacterias.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier agente de índole químico.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "pregunta": "PROCESO MEDIANTE EL CUAL SE DESTRUYEN TODOS LOS ORGANISMOS TANTO PATÓGENOS COMO NO PATÓGENOS INCLUYENDO ESPORAS:",
+        "respuestas": [
+            {
+                "texto": "Desinfección",
+                "correcta": false
+            },
+            {
+                "texto": "Aniquilación.",
+                "correcta": false
+            },
+            {
+                "texto": "Esterilización.",
+                "correcta": true
+            },
+            {
+                "texto": "Desgerminización.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "pregunta": "SEÑALA LA CORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Para poder ocuparse de la limpieza de los quirófanos, es necesario un cierto conocimiento de microbiología y electricidad, así como un considerable dominio de los procedimientos de sanificación.",
+                "correcta": true
+            },
+            {
+                "texto": "Para poder ocuparse de la limpieza de los quirófanos, NO es necesario un cierto conocimiento de microbiología y electricidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Para poder ocuparse de la limpieza de los quirófanos, es necesario un cierto conocimiento de microbiología, electricidad e inmunología.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "pregunta": "LA TÉCNICA DE LIMPIEZA BÁSICA EMPLEADA ACTUALMENTE EN LOS QUIRÓFANOS ES:",
+        "respuestas": [
+            {
+                "texto": "Mopa y doble cubo.",
+                "correcta": false
+            },
+            {
+                "texto": "Limpieza con el lavapavimentos.",
+                "correcta": false
+            },
+            {
+                "texto": "Limpieza spray.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "pregunta": "LA LIMPIEZA DE LOS PAVIMENTOS ES UNA OPERACIÓN MUY IMPORTANTE YA QUE:",
+        "respuestas": [
+            {
+                "texto": "Elimina grandes concentraciones de polvo e impide la acumulación de materiales no conductores.",
+                "correcta": false
+            },
+            {
+                "texto": "Elimina grandes concentraciones de bacterias e impide la acumulación de materiales conductores.",
+                "correcta": false
+            },
+            {
+                "texto": "Elimina grandes concentraciones de polvo, impide la acumulación de materiales conductores y evita que el personal resbale.",
+                "correcta": false
+            },
+            {
+                "texto": "Elimina grandes concentraciones de bacterias, impide la acumulación de materiales no conductores y evita que el personal resbale.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "pregunta": "EL RECIPIENTE DE PLÁSTICO QUE CONTIENE UNA BOLSA PLÁSTICA COLOR GRIS QUE SOBRESALE 5 Ó 10 CENTÍMETROS DEL BORDE DEL BOTE Y SE UTILIZA PARA DEPOSITAR LOS DESECHOS ORDINARIOS NO RECUPERABLES ES DE COLOR:",
+        "respuestas": [
+            {
+                "texto": "Rojo.",
+                "correcta": false
+            },
+            {
+                "texto": "Amarillo.",
+                "correcta": false
+            },
+            {
+                "texto": "Verde.",
+                "correcta": true
+            },
+            {
+                "texto": "Gris.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "pregunta": "EL TÉRMINO “COEFICIENTE DEL FENOL”, APLICADO A UN PRODUCTO, ES:",
+        "respuestas": [
+            {
+                "texto": "La medida del poder exterminador de este producto, comparado con el del ácido carbónico puro.",
+                "correcta": true
+            },
+            {
+                "texto": "El número que indica si el producto es ácido, un alcalino, o neutro.",
+                "correcta": false
+            },
+            {
+                "texto": "La medida del poder limpiador de este producto, comparado con el del ácido carbónico puro.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
     }
 ]
