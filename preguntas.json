@@ -702,5 +702,71 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 33,
+        "pregunta": "LAS MESAS DE PLANCHADO ESTÁN RECUBIERTAS DE:",
+        "respuestas": [
+            {
+                "texto": "Una espuma siliconizada.",
+                "correcta": false
+            },
+            {
+                "texto": "Una funda de nylon.",
+                "correcta": false
+            },
+            {
+                "texto": "Una garnitura flexible y de una funda muletón.",
+                "correcta": true
+            },
+            {
+                "texto": "Una tela de algodón.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "pregunta": "EL PLANCHADO:",
+        "respuestas": [
+            {
+                "texto": "Es un conjunto de operaciones diversas que tienen por objeto poner los artículos ya usados en un estado lo más próximo posible al que tenían de nuevos.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una operación que tiende a devolver a las ropas su aspecto, su textura y su calidad inicial.",
+                "correcta": false
+            },
+            {
+                "texto": "Requiere destreza y entrenamiento práctico experto y la cuidadosa práctica de técnicas correctas.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "pregunta": "EN EL PLANCHADO, LA RECOMENDACIÓN EN GENERAL ES QUE EL TIEMPO DE VACÍO:",
+        "respuestas": [
+            {
+                "texto": "Debe durar entre cinco y 15 segundos, y que la prenda debe sentirse siempre fría al tacto, antes de pasar a la siguiente operación.",
+                "correcta": false
+            },
+            {
+                "texto": "No debe ser menor de cinco segundos, y que la prenda debe sentirse siempre caliente al tacto, antes de pasar a la siguiente operación.",
+                "correcta": false
+            },
+            {
+                "texto": "No debe ser menor de cinco segundos, y que la prenda debe sentirse siempre fría al tacto, antes de pasar a la siguiente operación.",
+                "correcta": true
+            },
+            {
+                "texto": "Debe durar entre cinco y 15 segundos, y que la prenda debe sentirse siempre caliente al tacto, antes de pasar a la siguiente operación.",
+                "correcta": false
+            }
+        ]
     }
 ]
