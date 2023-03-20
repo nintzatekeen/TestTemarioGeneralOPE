@@ -768,5 +768,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 36,
+        "pregunta": "EL ALGODÓN SOPORTA UNA TEMPERATURA HASTA LOS:",
+        "respuestas": [
+            {
+                "texto": "115ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "145ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "215ºC",
+                "correcta": true
+            },
+            {
+                "texto": "245ºC.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "pregunta": "DE LAS SIGUIENTES FIBRAS TEXTILES, LA QUE MEJOR SOPORTA EL CALOR ES:",
+        "respuestas": [
+            {
+                "texto": "Lino.",
+                "correcta": true
+            },
+            {
+                "texto": "Lana.",
+                "correcta": false
+            },
+            {
+                "texto": "Acrílico.",
+                "correcta": false
+            },
+            {
+                "texto": "Poliamidas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "pregunta": "SEÑALA LA CORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Tanto el túnel de acabado como la cabina de acabado trabajan “continuamente”.",
+                "correcta": false
+            },
+            {
+                "texto": "Tanto la cabina de acabado como el túnel de acabado trabajan “discontinuamente”.",
+                "correcta": false
+            },
+            {
+                "texto": "Mientras el túnel de acabado trabaja “discontinuamente”, la cabina de acabado lo hace “continuamente”.",
+                "correcta": false
+            },
+            {
+                "texto": "Mientras la cabina de acabado trabaja “discontinuamente”, el túnel de acabado lo hace “continuamente”.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "pregunta": "LA FUNDA DE TELA QUE SE HINCHA, PARA EL PLANCHADO DEL CUERPO DEL PANTALÓN, SE DENOMINA:",
+        "respuestas": [
+            {
+                "texto": "Bacín.",
+                "correcta": false
+            },
+            {
+                "texto": "Pan-topper.",
+                "correcta": true
+            },
+            {
+                "texto": "Prensa.",
+                "correcta": false
+            },
+            {
+                "texto": "Cojinete.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "pregunta": "RESPECTO A LAS FACULTADES DE GESTIÓN Y ADMINISTRACIÓN DEL SERVICIO SANITARIO, CADA ORGANIZACIÓN DE SERVICIOS SANITARIOS DE OSAKIDETZA, DISPONDRÁ DE:",
+        "respuestas": [
+            {
+                "texto": "Todas las facultades que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios que tenga encomendada.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las facultades de gestión que se requieran para el ejercicio de la actividad de provisión de servicios sanitarios, así como las facultades de administración ordinaria correspondientes a ellas.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las facultades, excepto las que los Estatutos de Osakidetza atribuyen expresamente a la organización central del Ente Público, y las que correspondan a otras instancias.",
+                "correcta": true
+            },
+            {
+                "texto": "Todas las facultades, excepto las que correspondan a otras administraciones públicas o a las instituciones sanitarias de carácter privado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "pregunta": "AL FRENTE DE CADA ORGANIZACIÓN DE SERVICIOS SANITARIOS DE OSAKIDETZA, SE ENCONTRARÁ:",
+        "respuestas": [
+            {
+                "texto": "Un Director-Gerente.",
+                "correcta": true
+            },
+            {
+                "texto": "Un Director o un Gerente.",
+                "correcta": false
+            },
+            {
+                "texto": "Un Administrador General.",
+                "correcta": false
+            },
+            {
+                "texto": "La norma de creación de cada organización de servicios sanitarios determinará la figura que se situará al frente de ella.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "pregunta": "LA JORNADA NORMALIZADA DIARIA, PARA EL PERSONAL DE OSAKIDETZA SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "8 horas diarias, con carácter general.",
+                "correcta": false
+            },
+            {
+                "texto": "7 horas diarias, con carácter general.",
+                "correcta": true
+            },
+            {
+                "texto": "Un máximo de 10 horas.",
+                "correcta": false
+            },
+            {
+                "texto": "Un máximo de ocho horas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "pregunta": "EL PERIODO MÍNIMO SEMANAL DE DESCANSO ININTERRUMPIDO SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "48 horas",
+                "correcta": false
+            },
+            {
+                "texto": "48 horas más el periodo mínimo de descanso diario.",
+                "correcta": false
+            },
+            {
+                "texto": "24 horas",
+                "correcta": false
+            },
+            {
+                "texto": "24 horas más el periodo mínimo de descanso diario.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "pregunta": "EN EL ÁMBITO DE LA PROTECCIÓN DE RIESGOS LABORALES, UN SUCESO NO ESPERADO NI DESEADO, QUE ÚNICAMENTE OCASIONE DAÑOS A LA PROPIEDAD, EQUIPOS, PRODUCTOS O AL MEDIO AMBIENTE, SE DENOMINA:",
+        "respuestas": [
+            {
+                "texto": "Accidente laboral de entidad menor.",
+                "correcta": false
+            },
+            {
+                "texto": "Incidente",
+                "correcta": true
+            },
+            {
+                "texto": "Supuesto de daños materiales.",
+                "correcta": false
+            },
+            {
+                "texto": "Accidente laboral sin efectos personales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "pregunta": "EL PARTE INTERNO DE NOTIFICACIÓN DE UN ACCIDENTE LABORAL ES EL REGISTRO NECESARIO PARA: ",
+        "respuestas": [
+            {
+                "texto": "Dar cuenta de ese accidente, al responsable inmediato, por parte del trabajador afectado",
+                "correcta": false
+            },
+            {
+                "texto": "Realizar los llamamientos oportunos al personal especializado, a fin de que acuda a resolver el accidente producido y/o a hacer frente a sus consecuencias.",
+                "correcta": false
+            },
+            {
+                "texto": "Las cuestiones indicadas tanto en la opción a, como en la opción b",
+                "correcta": false
+            },
+            {
+                "texto": "Declarar ese accidente y que sea reconocido legalmente.",
+                "correcta": true
+            }
+        ]
     }
 ]
