@@ -988,5 +988,159 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 46,
+        "pregunta": "¿CUÁL DE ESTAS ACTUACIONES NO DEBERÁ LLEVAR A CABO PARA LEVANTAR Y TRANSPORTAR UNA CARGA DE FORMA MANUAL?",
+        "respuestas": [
+            {
+                "texto": "Flexionar las rodillas.",
+                "correcta": false
+            },
+            {
+                "texto": "Reducir el número de los trayectos, llevando lo máximo posible en cada uno de ellos.",
+                "correcta": true
+            },
+            {
+                "texto": "Mantener la espalda sin flexionar.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las actuaciones descritas en las opciones anteriores se deberán llevarse a cabo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "pregunta": "EL AGUA NO DEBERÁ EMPLEARSE COMO AGENTE EXTINTOR DE FUEGOS:",
+        "respuestas": [
+            {
+                "texto": "En cualquier supuesto en que estimemos que hay riesgo de que se extiendan las llamas.",
+                "correcta": false
+            },
+            {
+                "texto": "En zonas con equipos eléctricos.",
+                "correcta": false
+            },
+            {
+                "texto": "En el supuesto de fuego de líquidos inflamables.",
+                "correcta": false
+            },
+            {
+                "texto": "En los supuestos señalados en las opciones b y c.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "pregunta": "POR LO GENERAL, SE CONSIDERAN GRAVAS LOS ÁRIDOS QUE QUEDAN RETENIDOS EN UN TAMIZ DE MALLAS DE:",
+        "respuestas": [
+            {
+                "texto": "1 mm de diámetro",
+                "correcta": false
+            },
+            {
+                "texto": "1 cm de diámetro.",
+                "correcta": false
+            },
+            {
+                "texto": "5 mm de diámetro.",
+                "correcta": true
+            },
+            {
+                "texto": "5 cm de diámetro.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "pregunta": "SEÑALA LA RESPUESTA INCORRECTA. EL CEMENTO:",
+        "respuestas": [
+            {
+                "texto": "Es un ligante hidráulico.",
+                "correcta": false
+            },
+            {
+                "texto": "Mezclado con agua endurece al aire.",
+                "correcta": false
+            },
+            {
+                "texto": "No endurece debajo del agua.",
+                "correcta": true
+            },
+            {
+                "texto": "Mezclado con agua endurece debajo de ésta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "pregunta": "¿CÓMO SE LLAMA EL TRATAMIENTO TÉRMICO AL QUE SE SOMETE LA MEZCLA DE CALIZA Y ARCILLA PARA OBTENER EL CLINKER PORTLAND?",
+        "respuestas": [
+            {
+                "texto": "Carbonización.",
+                "correcta": false
+            },
+            {
+                "texto": "Sinterización.",
+                "correcta": true
+            },
+            {
+                "texto": "Abrasión.",
+                "correcta": false
+            },
+            {
+                "texto": "Emulsión.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "pregunta": "LOS CEMENTOS COMUNES SE DIVIDEN EN:",
+        "respuestas": [
+            {
+                "texto": "5 tipos, según su elasticidad, y 3 clases, según su aislamiento.",
+                "correcta": false
+            },
+            {
+                "texto": "3 tipos, según su elasticidad, y 5 clases, según su aislamiento.",
+                "correcta": false
+            },
+            {
+                "texto": "3 tipos, según su composición, y 5 clases, según su resistencia.",
+                "correcta": false
+            },
+            {
+                "texto": "5 tipos, según su composición, y 3 clases, según su resistencia.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "pregunta": "¿QUÉ CEMENTO TIENE UN USO MUY RESTRINGIDO DEBIDO A SU INESTABILIDAD ESTRUCTURAL?",
+        "respuestas": [
+            {
+                "texto": "Cementos de aluminato de calcio.",
+                "correcta": true
+            },
+            {
+                "texto": "Cementos comunes.",
+                "correcta": false
+            },
+            {
+                "texto": "Cementos blancos.",
+                "correcta": false
+            },
+            {
+                "texto": "Cementos con características adicionales.",
+                "correcta": false
+            }
+        ]
     }
 ]
