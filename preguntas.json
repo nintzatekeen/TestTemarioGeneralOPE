@@ -1142,5 +1142,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 53,
+        "pregunta": "DURANTE EL ENDURECIMIENTO DEL CEMENTO SE PRODUCE UN FENÓMENO DE DISMINUCIÓN DEL VOLUMEN POR PÉRDIDA DE AGUA LLAMADO:",
+        "respuestas": [
+            {
+                "texto": "Compactación.",
+                "correcta": false
+            },
+            {
+                "texto": "Redimensión.",
+                "correcta": false
+            },
+            {
+                "texto": "Retracción.",
+                "correcta": true
+            },
+            {
+                "texto": "Ciclación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "pregunta": "LA CANTIDAD DE AGUA QUE SE DEBE AÑADIR AL CEMENTO PARA CONSEGUIR LA MEZCLA IDÓNEA ES APROXIMADAMENTE:",
+        "respuestas": [
+            {
+                "texto": "Una cuarta parte del peso del cemento.",
+                "correcta": false
+            },
+            {
+                "texto": "La mitad del peso del cemento.",
+                "correcta": true
+            },
+            {
+                "texto": "Una tercera parte del peso del cemento.",
+                "correcta": false
+            },
+            {
+                "texto": "Una quinta parte del peso del cemento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "pregunta": "¿CUÁL DE LAS SIGUIENTES CUALIDADES NO CORRESPONDE AL YESO COMO REVESTIMIENTO?",
+        "respuestas": [
+            {
+                "texto": "Es resistente al agua.",
+                "correcta": false
+            },
+            {
+                "texto": "Ofrece buen aislamiento térmico.",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene buena absorción acústica.",
+                "correcta": false
+            },
+            {
+                "texto": "Es combustible.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "pregunta": "LAS ARISTAS DE QUE CONSTA UN LADRILLO SON:",
+        "respuestas": [
+            {
+                "texto": "Grueso, tabla y soga.",
+                "correcta": false
+            },
+            {
+                "texto": "Grueso, tizón y canto",
+                "correcta": false
+            },
+            {
+                "texto": "Grueso, testa y soga.",
+                "correcta": false
+            },
+            {
+                "texto": "Grueso, tizón y soga.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "pregunta": "SEÑALA LA RESPUESTA INCORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Algunas de las características del hormigón son su resistencia, su larga duración y bajo coste.",
+                "correcta": false
+            },
+            {
+                "texto": "El hormigón no puede hacerse absolutamente hermético para contener agua.",
+                "correcta": true
+            },
+            {
+                "texto": "El hormigón es casi el único material que puede moldearse de diferentes formas.",
+                "correcta": false
+            },
+            {
+                "texto": "Se pueden realizar hormigones filtrantes, porosos y permeables.",
+                "correcta": false
+            }
+        ]
     }
 ]
