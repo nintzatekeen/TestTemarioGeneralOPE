@@ -1252,5 +1252,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 58,
+        "pregunta": "AL HORMIGÓN SE LE PUEDE AÑADIR ADITIVOS PARA MEJORAR ALGUNAS DE SUS PROPIEDADES EN UNA PROPORCIÓN:",
+        "respuestas": [
+            {
+                "texto": "No superior al 1% del peso del cemento.",
+                "correcta": false
+            },
+            {
+                "texto": "No superior al 5% del peso del cemento.",
+                "correcta": true
+            },
+            {
+                "texto": "No superior al 10% del peso del cemento.",
+                "correcta": false
+            },
+            {
+                "texto": "No superior al 15% del peso del cemento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "pregunta": "LA TEMPERATURA DE LA MASA DE HORMIGÓN, EN EL MOMENTO DE VERTERLA EN EL ENCOFRADO:",
+        "respuestas": [
+            {
+                "texto": "No será inferior a 5ºC.",
+                "correcta": true
+            },
+            {
+                "texto": "Será inferior a 5ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "No será inferior a 0ºC",
+                "correcta": false
+            },
+            {
+                "texto": "Será inferior a 0ºC.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "pregunta": "LOS MORTEROS GRASOS SON:",
+        "respuestas": [
+            {
+                "texto": "Los que tienen menor cantidad de material base, poca arena y poco aglomerante.",
+                "correcta": false
+            },
+            {
+                "texto": "Los que tienen tanta cantidad de material base, como arena y aglomerante.",
+                "correcta": false
+            },
+            {
+                "texto": "Los que tienen mayor cantidad de material base, mucha arena y poco aglomerante.",
+                "correcta": true
+            },
+            {
+                "texto": "Los que tienen menor cantidad de material base, poca arena y mucho aglomerante.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "pregunta": "EL MORTERO DE CEMENTO:",
+        "respuestas": [
+            {
+                "texto": "Se usará dentro de la primera hora de amasado; pasado este tiempo se desechará sin intentar volver a usarlo.",
+                "correcta": false
+            },
+            {
+                "texto": "Se usará dentro de la primera hora de amasado; pasado este tiempo se podría recuperar repitiendo el proceso.",
+                "correcta": false
+            },
+            {
+                "texto": "Se usará dentro de las dos horas de amasado; pasado este tiempo se desechará sin intentar volver a usarlo.",
+                "correcta": false
+            },
+            {
+                "texto": "Se usará dentro de las dos horas de amasado; pasado este tiempo se podría recuperar repitiendo el proceso.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "pregunta": "SE DICE QUE EL CONTENIDO DEL AGUA DE UN MORTERO ES CORRECTO CUANDO LA MASA SE SOSTIENE HORIZONTALMENTE CON UNA LLANA Y NO SE MUEVE, Y ESTA MASA COMIENZA A DESLIZARSE CUANDO:",
+        "respuestas": [
+            {
+                "texto": "Inclinamos la llana a 90º.",
+                "correcta": false
+            },
+            {
+                "texto": "Inclinamos la llana a 40º.",
+                "correcta": true
+            },
+            {
+                "texto": "Inclinamos la llana a 10º.",
+                "correcta": false
+            },
+            {
+                "texto": "Inclinamos la llana a 5º.",
+                "correcta": false
+            }
+        ]
     }
 ]
