@@ -1333,7 +1333,7 @@
             },
             {
                 "texto": "Se usará dentro de las dos horas de amasado; pasado este tiempo se desechará sin intentar volver a usarlo.",
-                "correcta": false
+                "correcta": true
             },
             {
                 "texto": "Se usará dentro de las dos horas de amasado; pasado este tiempo se podría recuperar repitiendo el proceso.",
