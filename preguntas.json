@@ -1362,5 +1362,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 63,
+        "pregunta": "EN LOS EDIFICIOS, LA SALIDA DE LAS AGUAS DESECHADAS DESPUÉS DE SU EMPLEO Y RECIBIDAS DE LA LLUVIA SE LLEVA A CABO A TRAVÉS DE UNA SERIE DE TUBERÍAS QUE RECIBE EL NOMBRE DE:",
+        "respuestas": [
+            {
+                "texto": "Consorcio de aguas.",
+                "correcta": false
+            },
+            {
+                "texto": "Suministro de fluidos.",
+                "correcta": false
+            },
+            {
+                "texto": "Red de evacuación de aguas residuales y pluviales.",
+                "correcta": true
+            },
+            {
+                "texto": "Salida hidráulica.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "pregunta": "EL DESAGÜE DE LOS INODOROS DEBE HACERSE SIEMPRE DIRECTAMENTE A LA BAJANTE, DE LA QUE SE SITUARÁ A UNA DISTANCIA:",
+        "respuestas": [
+            {
+                "texto": "Inferior a 50 centímetros.",
+                "correcta": false
+            },
+            {
+                "texto": "Inferior a un metro.",
+                "correcta": true
+            },
+            {
+                "texto": "Entre 1 y 2 metros.",
+                "correcta": false
+            },
+            {
+                "texto": "Al menos, de 150 centímetros.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "pregunta": "UN SIFÓN CUYAS DOS RAMAS QUEDAN LLENAS DE AGUA CUANDO SE VACÍA LA TUBERÍA O EL DEPÓSITO, IMPIDIENDO ASÍ EL PASO DE VAPORES DE UNA A OTRA DE SUS RAMAS ES UN:",
+        "respuestas": [
+            {
+                "texto": "Cierre centralizado.",
+                "correcta": false
+            },
+            {
+                "texto": "Cierre hidráulico.",
+                "correcta": true
+            },
+            {
+                "texto": "Cierre bacterioestático.",
+                "correcta": false
+            },
+            {
+                "texto": "Cierre hidrostático.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "pregunta": "EL CEMENTO TIENE UN PH:",
+        "respuestas": [
+            {
+                "texto": "Cercano a 3.",
+                "correcta": false
+            },
+            {
+                "texto": "Cercano a 7.",
+                "correcta": false
+            },
+            {
+                "texto": "Cercano a 9.",
+                "correcta": false
+            },
+            {
+                "texto": "Cercano a 12.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "pregunta": "EN COCINA, EL DEPARTAMENTO MÁS IMPORTANTE ES:",
+        "respuestas": [
+            {
+                "texto": "La oficina de control.",
+                "correcta": false
+            },
+            {
+                "texto": "El cuarto frio.",
+                "correcta": false
+            },
+            {
+                "texto": "La cocina caliente.",
+                "correcta": true
+            },
+            {
+                "texto": "El despacho del Jefe/a de cocina.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "pregunta": "EN COCINA, EL DEPARTAMENTO QUE ADMINISTRA LOS ARTÍCULOS, LOS CONSERVA Y SACA DE ELLOS EL MAYOR PROVECHO ES:",
+        "respuestas": [
+            {
+                "texto": "El cuarto frío.",
+                "correcta": true
+            },
+            {
+                "texto": "El economato.",
+                "correcta": false
+            },
+            {
+                "texto": "La cocina caliente.",
+                "correcta": false
+            },
+            {
+                "texto": "El almacén.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "pregunta": "EN COCINA, TENDRÁ SUELO INCLINADO CON VERTIENTE CENTRAL A UN SUMIDERO:",
+        "respuestas": [
+            {
+                "texto": "El economato.",
+                "correcta": false
+            },
+            {
+                "texto": "La antecámara.",
+                "correcta": false
+            },
+            {
+                "texto": "La cámara de refrigeración.",
+                "correcta": true
+            },
+            {
+                "texto": "El fregadero.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "pregunta": "LOS LUGARES ACONDICIONADO PARA QUE LA BRIGADA DE COCINA CAMBIE Y DEPOSITE SUS ROPAS SON:",
+        "respuestas": [
+            {
+                "texto": "Las cocinas de personal.",
+                "correcta": false
+            },
+            {
+                "texto": "Los Plonge.",
+                "correcta": false
+            },
+            {
+                "texto": "Los recibidores.",
+                "correcta": false
+            },
+            {
+                "texto": "Los placares.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "pregunta": "SEÑALA LA RESPUESTA INCORRECTA. LA COCINA DE “FAMILIA”:",
+        "respuestas": [
+            {
+                "texto": "Estará dedicada exclusivamente a confeccionar la comida del personal.",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene como objetivo evitar la interferencia con la cocina de clientes.",
+                "correcta": false
+            },
+            {
+                "texto": "Deberá estar situada en lugar que domine la totalidad de la cocina y para una mejor visión, formada por cristaleras.",
+                "correcta": true
+            },
+            {
+                "texto": "Será, en sí, una cocina completa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "pregunta": "SEÑALA LA RESPUESTA CORRECTA:",
+        "respuestas": [
+            {
+                "texto": "El gas butano es más puro y gasifica mejor que el gas propano.",
+                "correcta": false
+            },
+            {
+                "texto": "El gas propano es más puro y gasifica mejor que el gas butano.",
+                "correcta": true
+            },
+            {
+                "texto": "El gas butano y propano son igual de puros.",
+                "correcta": false
+            },
+            {
+                "texto": "El gas propano y butano gasifican igual.",
+                "correcta": false
+            }
+        ]
     }
 ]
