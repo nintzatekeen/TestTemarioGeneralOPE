@@ -1582,5 +1582,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 73,
+        "pregunta": "EN EL GAS PROPANO, LA MALA COMBUSTIÓN SE IDENTIFICA:",
+        "respuestas": [
+            {
+                "texto": "Por convertir la llama en amarillenta, en vez de rojiza.",
+                "correcta": false
+            },
+            {
+                "texto": "Por convertir la llama en rojiza, en vez de azulada.",
+                "correcta": true
+            },
+            {
+                "texto": "Por convertir la llama en azulada, en vez de rojiza.",
+                "correcta": false
+            },
+            {
+                "texto": "Por convertir la llama en rojiza, en vez de amarillenta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "pregunta": "¿CUÁL DE LOS SIGUIENTES NO AGLUTINA AL ARDER, PRODUCE BASTANTE ESCORIA, ARDE CON CIERTA DIFICULTAD, CON POCO HUMO Y BASTANTES CALORÍAS?",
+        "respuestas": [
+            {
+                "texto": "Parafina.",
+                "correcta": false
+            },
+            {
+                "texto": "Cok.",
+                "correcta": false
+            },
+            {
+                "texto": "Antracita.",
+                "correcta": true
+            },
+            {
+                "texto": "Hulla.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "pregunta": "¿CUÁL DE LAS SIGUIENTES RECIBE TAMBIÉN EL NOMBRE DE GRATINADORA?",
+        "respuestas": [
+            {
+                "texto": "Marmita.",
+                "correcta": false
+            },
+            {
+                "texto": "Prusiana.",
+                "correcta": false
+            },
+            {
+                "texto": "Calandra.",
+                "correcta": false
+            },
+            {
+                "texto": "Salamandra.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "pregunta": "EL TAMAÑO DE LA CUBETA DE LAS FREIDORAS:",
+        "respuestas": [
+            {
+                "texto": "Es de 4 hasta 10 litros.",
+                "correcta": false
+            },
+            {
+                "texto": "Es de 4 hasta 50 litros.",
+                "correcta": false
+            },
+            {
+                "texto": "Es de 4 hasta 100 litros.",
+                "correcta": true
+            },
+            {
+                "texto": "Es de 4 hasta 200 litros.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "pregunta": "SI SUS PARTES IMPORTANTES SON: TIRO, PUERTA DE CORREA ABATIBLE, REJILLA, HOGAR, CAJÓN CENICERO, CAJÓN DEPÓSITO Y GUÍAS, NOS REFERIMOS A LA:",
+        "respuestas": [
+            {
+                "texto": "Marmita.",
+                "correcta": false
+            },
+            {
+                "texto": "Prusiana.",
+                "correcta": true
+            },
+            {
+                "texto": "Calandra.",
+                "correcta": false
+            },
+            {
+                "texto": "Salamandra.",
+                "correcta": false
+            }
+        ]
     }
 ]
