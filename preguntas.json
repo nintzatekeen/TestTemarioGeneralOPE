@@ -1692,5 +1692,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 78,
+        "pregunta": "EL TIPO DE HORNO MÁS USADO ES:",
+        "respuestas": [
+            {
+                "texto": "El eléctrico.",
+                "correcta": true
+            },
+            {
+                "texto": "El de gas propano.",
+                "correcta": false
+            },
+            {
+                "texto": "El de leña.",
+                "correcta": false
+            },
+            {
+                "texto": "El de gas-oil.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "pregunta": "LA MARMITA PERMITE QUE EL LÍQUIDO LLEGUE A ADQUIRIR UNA TEMPERATURA MÁXIMA DE:",
+        "respuestas": [
+            {
+                "texto": "90ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "120ºC.",
+                "correcta": true
+            },
+            {
+                "texto": "150ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "200ºC.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "pregunta": "¿CUÁL DE LOS SIGUIENTES DEBE SITUARSE COMO MEDIANERA ENTRE LA COCINA Y EL PASO AL COMEDOR?",
+        "respuestas": [
+            {
+                "texto": "Placar.",
+                "correcta": false
+            },
+            {
+                "texto": "Prusiana.",
+                "correcta": false
+            },
+            {
+                "texto": "Mesa caliente.",
+                "correcta": true
+            },
+            {
+                "texto": "Plonge.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "pregunta": "UTENSILIO CONTENEDOR DE AGUA CALIENTE DENTRO DEL CUAL SE SITÚAN LOS RECIPIENTES CONTENEDORES DE ALIMENTOS PARA CONSERVARLOS CALIENTES POR ESPACIO DE UN TIEMPO DETERMINADO:",
+        "respuestas": [
+            {
+                "texto": "Mesa caliente.",
+                "correcta": false
+            },
+            {
+                "texto": "Horno.",
+                "correcta": false
+            },
+            {
+                "texto": "Marmita.",
+                "correcta": false
+            },
+            {
+                "texto": "Baño María.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "pregunta": "CUANDO SE USE UNA SOLA CÁMARA DE CONGELACIÓN, LA TEMPERATURA APROXIMADA SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "-10ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "-15ºC",
+                "correcta": false
+            },
+            {
+                "texto": "-20ºC.",
+                "correcta": true
+            },
+            {
+                "texto": "-25ºC.",
+                "correcta": false
+            }
+        ]
     }
 ]
