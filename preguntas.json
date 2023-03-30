@@ -1802,5 +1802,93 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 83,
+        "pregunta": "EN RELACIÓN CON LA AMPLITUD DE LAS MESAS DE TRABAJO EN COCINA, SE CONSIDERA QUE CADA PUESTO NECESITA:",
+        "respuestas": [
+            {
+                "texto": "Un mínimo de 90 centímetros de largo por 70 centímetros de ancho.",
+                "correcta": false
+            },
+            {
+                "texto": "Un mínimo de 1 metro de largo por 0,60 metros de ancho.",
+                "correcta": false
+            },
+            {
+                "texto": "Un mínimo de 1 metro de largo por 1 metro de ancho.",
+                "correcta": false
+            },
+            {
+                "texto": "Un mínimo de 1,20 metros de largo por 0,70 metros de ancho.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "pregunta": "¿CUÁL DE LOS SIGUIENTES SE EMPLEA PARA TAMIZAR PURÉS, CREMAS Y SALSAS?",
+        "respuestas": [
+            {
+                "texto": "Mortero.",
+                "correcta": false
+            },
+            {
+                "texto": "Colador.",
+                "correcta": false
+            },
+            {
+                "texto": "Almirez.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "pregunta": "LA PAELLERA DE SEIS RACIONES TIENE UN DIAMETRO DE:",
+        "respuestas": [
+            {
+                "texto": "32 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "40,5 cm.",
+                "correcta": true
+            },
+            {
+                "texto": "50,5 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "55 cm.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "pregunta": "EN COCINA, PARA TORNEAR UTILIZAREMOS PREFERENTEMENTE:",
+        "respuestas": [
+            {
+                "texto": "Un cuchillo de medio golpe.",
+                "correcta": false
+            },
+            {
+                "texto": "Un cuchillo cebollero.",
+                "correcta": false
+            },
+            {
+                "texto": "Una puntilla.",
+                "correcta": true
+            },
+            {
+                "texto": "Un trinchante.",
+                "correcta": false
+            }
+        ]
     }
 ]
