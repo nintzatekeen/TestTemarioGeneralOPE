@@ -1890,5 +1890,93 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 90,
+        "pregunta": "EL PH DE UN PRODUCTO ES:",
+        "respuestas": [
+            {
+                "texto": "Un número que indica el grado de densidad del material.",
+                "correcta": false
+            },
+            {
+                "texto": "Un número que indica si el material es un ácido, un alcalino, o neutro.",
+                "correcta": true
+            },
+            {
+                "texto": "Un número que indica el grado de humedad del material.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las respuestas anteriores es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "pregunta": "UN CUCHILLO JAMONERO MIDE:",
+        "respuestas": [
+            {
+                "texto": "40 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "44 cm.",
+                "correcta": true
+            },
+            {
+                "texto": "48 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "52 cm.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "pregunta": "EL PERSONAL DE OSAKIDETZA TENDRÁ DERECHO A DISFRUTAR, POR CADA AÑO COMPLETO DE SERVICIOS, DE UNA VACACIÓN RETRIBUIDA:",
+        "respuestas": [
+            {
+                "texto": "De 28 días, computando, a estos efectos, los sábados como laborales.",
+                "correcta": true
+            },
+            {
+                "texto": "De 28 días computando, a estos efectos, los sábados como festivos.",
+                "correcta": false
+            },
+            {
+                "texto": "Que se disfrutará, preferentemente, en los meses de julio y agosto.",
+                "correcta": false
+            },
+            {
+                "texto": "Que se disfrutará, preferentemente, en los meses de julio, agosto, septiembre y octubre. ",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "pregunta": "EL DIÓXIDO DE CARBONO (CO2), COMO AGENTE EXTINTOR:",
+        "respuestas": [
+            {
+                "texto": "Tiene, como ventaja, el ser conductor de la electricidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene, como inconveniente, su toxicidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Es adecuado para fuegos de materiales sólidos.",
+                "correcta": true
+            },
+            {
+                "texto": "Es adecuado para un fuego de aceite o pintura.",
+                "correcta": false
+            }
+        ]
     }
 ]
