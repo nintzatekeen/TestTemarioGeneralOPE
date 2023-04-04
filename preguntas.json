@@ -1978,5 +1978,137 @@
                 "correcta": false
             }
         ]
+    },
+        {
+        "id": 94,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. COMO NORMA GENERAL, ENTRE EL FIN DE UNA JORNADA ORDINARIA Y EL COMIENZO DE LA SIGUIENTE, EL PERSONAL TENDRÁ DERECHO A UN DESCANSO ININTERRUMPIDO DE…",
+        "respuestas": [
+            {
+                "texto": "Doce horas",
+                "correcta": true
+            },
+            {
+                "texto": "Diez horas",
+                "correcta": false
+            },
+            {
+                "texto": "Ocho horas",
+                "correcta": false
+            },
+            {
+                "texto": "No hay un tiempo determinado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. COMO PRINCIPIO GENERAL, EL DISFRUTE DE LAS VACACIONES…",
+        "respuestas": [
+            {
+                "texto": "Se fraccionará en dos periodos",
+                "correcta": false
+            },
+            {
+                "texto": "Se fraccionará en cuatro periodos",
+                "correcta": false
+            },
+            {
+                "texto": "No podrá fraccionarse en más de dos periodos",
+                "correcta": false
+            },
+            {
+                "texto": "Se realizará de manera ininterrumpida",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "pregunta": "EL ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO DEL PERSONAL DE OSAKIDETZA CONTEMPLA PERMISOS O LICENCIAS POR UNO DE LOS SIGUIENTES MOTIVOS:",
+        "respuestas": [
+            {
+                "texto": "Licencia por asistencia a exámenes",
+                "correcta": false
+            },
+            {
+                "texto": "Permiso por violencia de género",
+                "correcta": true
+            },
+            {
+                "texto": "Licencia por asistencia a cursos y congresos",
+                "correcta": false
+            },
+            {
+                "texto": "Permiso por deberes inexcusables de carácter público o personal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. EL DISFRUTE DE MÁS DE UNA DE LAS MODALIDADES DE LICENCIAS Y PERMISOS…",
+        "respuestas": [
+            {
+                "texto": "No puede simultanearse en ningún caso",
+                "correcta": false
+            },
+            {
+                "texto": "No puede simultanearse excepto en el supuesto de compatibilidad entre la licencia de lactancia y la reducción de jornada para el cuidado de menores",
+                "correcta": true
+            },
+            {
+                "texto": "Puede simultanearse excepto en el supuesto de incompatibilidad entre la licencia de lactancia y la reducción de jornada para el cuidado de menores",
+                "correcta": false
+            },
+            {
+                "texto": "Puede simultanearse en todo caso",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. ¿CUÁL DE LOS SIGUIENTES PERMISOS ES APLICABLE AL PERSONAL RESIDENTE EN FORMACIÓN?",
+        "respuestas": [
+            {
+                "texto": "Autorización para la realización de estudios de perfeccionamiento profesional",
+                "correcta": true
+            },
+            {
+                "texto": "Permiso por reducción de jornada",
+                "correcta": false
+            },
+            {
+                "texto": "Permiso por asuntos propios",
+                "correcta": false
+            },
+            {
+                "texto": "Autorización de colaboración con Organizaciones no Gubernamentales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. POR MATRIMONIO PROPIO O INICIO DE LA CONVIVENCIA ESTABLE, EL PERSONAL TENDRÁ DERECHO A UNA LICENCIA DE:",
+        "respuestas": [
+            {
+                "texto": "20 días laborables de duración, que deberá disfrutar con posterioridad a su celebración, incluyendo dicha fecha en ese período",
+                "correcta": false
+            },
+            {
+                "texto": "20 días naturales de duración, que podrá disfrutar con anterioridad o posterioridad a su celebración, incluyendo dicha fecha en ese período",
+                "correcta": true
+            },
+            {
+                "texto": "20 días laborables de duración, que podrá disfrutar con anterioridad o posterioridad a su celebración, incluyendo dicha fecha en ese período",
+                "correcta": false
+            },
+            {
+                "texto": "20 días naturales de duración, que deberá disfrutar con posterioridad a su celebración, incluyendo dicha fecha en ese período",
+                "correcta": false
+            }
+        ]
     }
 ]
