@@ -2110,5 +2110,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 97,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. LICENCIAS. EL PERSONAL, POR EL FALLECIMIENTO DEL PADRE O MADRE, TENDRÁ DERECHO A UNA LICENCIA DE:",
+        "respuestas": [
+            {
+                "texto": "Cinco días naturales. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante",
+                "correcta": false
+            },
+            {
+                "texto": "Tres días hábiles. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante",
+                "correcta": true
+            },
+            {
+                "texto": "Tres días naturales",
+                "correcta": false
+            },
+            {
+                "texto": "Dos días hábiles. Dos días hábiles más, si los hechos que lo motivan se producen a más de 150 kms. del lugar de residencia del solicitante",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. CON CARÁCTER GENERAL, LOS SÁBADOS, LA JORNADA NORMALIZADA DIARIA SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "Siete horas y treinta minutos",
+                "correcta": false
+            },
+            {
+                "texto": "Seis horas y treinta minutos",
+                "correcta": false
+            },
+            {
+                "texto": "Siete horas",
+                "correcta": true
+            },
+            {
+                "texto": "Ocho horas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. CON CARÁCTER GENERAL, LOS SÁBADOS, LA JORNADA NORMALIZADA DIARIA SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "Comparecencia en programas de televisión",
+                "correcta": false
+            },
+            {
+                "texto": "Concurrencia a exámenes oficiales",
+                "correcta": false
+            },
+            {
+                "texto": "Comuniones",
+                "correcta": false
+            },
+            {
+                "texto": "Examen del permiso de conducir",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "pregunta": "PREVENCIÓN DE INCENDIOS. ¿QUÉ NOMBRE RECIBE LA TEMPERATURA A LA CUAL UNA SUSTANCIA COMIENZA A DESPRENDER VAPORES EN CANTIDAD SUFICIENTE PARA MANTENER LA COMBUSTIÓN?",
+        "respuestas": [
+            {
+                "texto": "Punto de inflamación",
+                "correcta": true
+            },
+            {
+                "texto": "Temperatura de ignición",
+                "correcta": false
+            },
+            {
+                "texto": "Límite de inflamabilidad",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las respuestas anteriores son incorrectas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "pregunta": "PREVENCIÓN DE INCENDIOS. SI SE DETECTA OLOR A GAS O PRODUCTOS QUÍMICOS QUE PUEDA INDICAR ACUMULACIÓN DE VAPORES, ¿QUÉ ACCIÓN ES PELIGROSA?",
+        "respuestas": [
+            {
+                "texto": "Encender la luz para iluminar la zona",
+                "correcta": true
+            },
+            {
+                "texto": "Abrir las ventanas",
+                "correcta": false
+            },
+            {
+                "texto": "Cerrar los envases de productos químicos que estuviesen abiertos",
+                "correcta": false
+            },
+            {
+                "texto": "Cerrar la entrada de gas",
+                "correcta": false
+            }
+        ]
     }
 ]
