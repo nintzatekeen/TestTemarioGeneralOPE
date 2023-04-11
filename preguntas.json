@@ -2220,5 +2220,357 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 102,
+        "pregunta": "PREVENCIÓN DE INCENDIOS. ¿QUÉ AGENTE EXTINTOR ES ADECUADO PARA FUEGOS DE LAS CLASES A, B Y C?",
+        "respuestas": [
+            {
+                "texto": "Agua",
+                "correcta": false
+            },
+            {
+                "texto": "Polvo polivalente",
+                "correcta": true
+            },
+            {
+                "texto": "Dióxido de carbono",
+                "correcta": false
+            },
+            {
+                "texto": "Óxido de nitrógeno",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "pregunta": "PREVENCIÓN DE INCENDIOS. ANTE UN PEQUEÑO INCENDIO, POR EJEMPLO EN UN APARATO ELÉCTRICO ¿CUÁL DE LAS SIGUIENTES ACTUACIONES SERÁ LA PRIMERA EN EL TIEMPO?",
+        "respuestas": [
+            {
+                "texto": "Informar al responsable",
+                "correcta": false
+            },
+            {
+                "texto": "Colaborar en la evacuación",
+                "correcta": false
+            },
+            {
+                "texto": "Aislar la zona de fuego cerrando las puertas de acceso",
+                "correcta": false
+            },
+            {
+                "texto": "Intentar sofocar el conato con ayuda del extintor",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "pregunta": "RIESGOS GENERALES DEL MEDIO SANITARIO. ES RECOMENDABLE DESDE EL PUNTO DE VISTA DE LA PREVENCIÓN DE RIESGOS…",
+        "respuestas": [
+            {
+                "texto": "Reparar uno mismo cuanto antes los defectos detectados en las instalaciones eléctricas",
+                "correcta": false
+            },
+            {
+                "texto": "Anular los dispositivos de protección de los equipos de trabajo cuando su uso implique disminución del ritmo de trabajo, advirtiendo al resto del personal de la circunstancia",
+                "correcta": false
+            },
+            {
+                "texto": "Recoger el material utilizado",
+                "correcta": true
+            },
+            {
+                "texto": "Dejar objetos en zonas de paso siempre que estén bien visibles",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "pregunta": "PREVENCIÓN DE RIESGOS LABORALES. ¿QUÉ ACTUACIÓN NO ABARCA EL SERVICIO DE PREVENCIÓN DE OSAKIDETZA?",
+        "respuestas": [
+            {
+                "texto": "Investigación, asistencia y control de accidentes de trabajo y enfermedades profesionales",
+                "correcta": false
+            },
+            {
+                "texto": "Vigilancia de la salud",
+                "correcta": false
+            },
+            {
+                "texto": "Sanción de infracciones cometidas por el personal de Osakidetza en materia de prevención de riesgos laborales",
+                "correcta": true
+            },
+            {
+                "texto": "Implantación de Planes de Emergencia y Evacuación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "pregunta": "RIESGOS GENERALES DEL MEDIO SANITARIO. ¿QUÉ NOMBRE RECIBE LA EXPOSICIÓN ACCIDENTAL A BACTERIAS POR EL CONTACTO CON SANGRE U OTROS FLUIDOS BIOLÓGICOS A TRAVÉS DE UN CORTE DURANTE EL DESARROLLO DE ACTIVIDADES LABORALES?",
+        "respuestas": [
+            {
+                "texto": "Enfermedad profesional",
+                "correcta": false
+            },
+            {
+                "texto": "Riesgo laboral",
+                "correcta": false
+            },
+            {
+                "texto": "Accidente químico",
+                "correcta": false
+            },
+            {
+                "texto": "Accidente biológico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "pregunta": "PARA PREVENIR RIESGOS POSTURALES-ESTÁTICOS, ES RECOMENDABLE…",
+        "respuestas": [
+            {
+                "texto": "Mantener las posturas el mayor tiempo posible",
+                "correcta": false
+            },
+            {
+                "texto": "Realizar movimientos de estiramiento de los músculos",
+                "correcta": true
+            },
+            {
+                "texto": "Mantener inmóviles los pies cuando se mueva el tronco",
+                "correcta": false
+            },
+            {
+                "texto": "No levantarse del asiento si desempeñamos nuestro trabajo sentados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "pregunta": "PREVENCIÓN DE RIESGOS LABORALES. PARA LA PREVENCIÓN DE RIESGOS PSICOSOCIALES, SE RECOMIENDA AL PERSONAL…",
+        "respuestas": [
+            {
+                "texto": "Trabajar en equipo",
+                "correcta": true
+            },
+            {
+                "texto": "Reducir la participación en actividades formativas",
+                "correcta": false
+            },
+            {
+                "texto": "Limitar la comunicación en el entorno de trabajo para evitar que aspectos personales influyan en el desempeño del trabajo",
+                "correcta": false
+            },
+            {
+                "texto": "Evitar los cambios en los métodos de trabajo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "pregunta": "CARPETA ROJA DE PREVENCIÓN. EN CASO DE ACCIDENTE, CUANDO LA MUTUA DE AL TRABAJADOR EL ALTA O BAJA MÉDICA…",
+        "respuestas": [
+            {
+                "texto": "Bastará con que el trabajador lo comunique a la Unidad Básica de Prevención de referencia",
+                "correcta": false
+            },
+            {
+                "texto": "Bastará con que el trabajador lo comunique al departamento de personal de su organización",
+                "correcta": false
+            },
+            {
+                "texto": "El trabajador deberá comunicarlo a la Unidad Básica de Prevención de referencia y al departamento de personal de su organización",
+                "correcta": true
+            },
+            {
+                "texto": "La Mutua no está autorizada para dar el alta o baja al trabajador",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "pregunta": "CARPETA ROJA DE PREVENCIÓN. SEÑALAR LA OPCIÓN CORRECTA RESPECTO AL PARTE INTERNO DE ACCIDENTE, INCIDENTE Y AGRESIÓN.",
+        "respuestas": [
+            {
+                "texto": "El responsable inmediato deberá rellenar un parte por cada accidente, incidente o agresión, independientemente del número de trabajadores implicados",
+                "correcta": false
+            },
+            {
+                "texto": "El responsable inmediato deberá enviar el parte a la Unidad Básica de Prevención",
+                "correcta": true
+            },
+            {
+                "texto": "Este parte no se utilizará en los accidentes o incidentes sufridos por trabajadores pertenecientes a empresas externas o empresas subcontratadas por Osakidetza, que seguirán su propio procedimiento",
+                "correcta": false
+            },
+            {
+                "texto": "El parte interno será elaborado por la Unidad Básica de Prevención tras ser avisada por el responsable inmediato del trabajador involucrado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "pregunta": "CARPETA ROJA DE PREVENCIÓN. SEÑALE LA AFIRMACIÓN CORRECTA SOBRE LA ACTUACIÓN EN CASO DE AGRESIÓN.",
+        "respuestas": [
+            {
+                "texto": "El trabajador afectado deberá comunicar la agresión a su responsable inmediato en el plazo de setenta y dos horas",
+                "correcta": false
+            },
+            {
+                "texto": "La asistencia médica deberá ser prestada en todo caso en la Unidad Básica de Prevención",
+                "correcta": false
+            },
+            {
+                "texto": "Corresponde al responsable inmediato valorar la interposición de la correspondiente denuncia ante la autoridad policial",
+                "correcta": false
+            },
+            {
+                "texto": "Si es posible, el responsable inmediato deberá acompañar a la persona agredida a la Unidad Básica de Prevención",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "pregunta": "EL LUGAR DONDE SE LIMPIA Y CONSERVA LA BATERÍA DE COCINA SE DENOMINA:",
+        "respuestas": [
+            {
+                "texto": "Placares",
+                "correcta": false
+            },
+            {
+                "texto": "Fregaderos de vajilla y plata",
+                "correcta": false
+            },
+            {
+                "texto": "Plonge",
+                "correcta": true
+            },
+            {
+                "texto": "Cocina de “familia”",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "pregunta": "LA TEMPERATURA DE LA CÁMARA DE REFRIGERACIÓN SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "20 grados centígrados bajo cero",
+                "correcta": false
+            },
+            {
+                "texto": "10 a 12 grados centígrados bajo cero aproximadamente",
+                "correcta": false
+            },
+            {
+                "texto": "5 grados centígrados bajo cero",
+                "correcta": false
+            },
+            {
+                "texto": "1 a 2 grados centígrados aproximadamente",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "pregunta": "¿EN QUÉ ORDEN TIENEN QUE ESTAR DISPUESTAS LAS CÁMARAS FRIGORÍFICAS?",
+        "respuestas": [
+            {
+                "texto": "Cámara de congelación, cámara de refrigeración, cuarto frío",
+                "correcta": false
+            },
+            {
+                "texto": "Frigorífico de verduras y frutas, frigorífico de carne y pescado, cámara de refrigeración",
+                "correcta": false
+            },
+            {
+                "texto": "Antecámara, cámara de refrigeración, cámara de congelación",
+                "correcta": true
+            },
+            {
+                "texto": "Antecámara, cuarto frío, cámara de refrigeración",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "pregunta": "DE LOS SIGUIENTES DEPARTAMENTOS DE COCINA, ¿CUÁL ES UN DEPARTAMENTO CONDICIONADO?",
+        "respuestas": [
+            {
+                "texto": "Cocina caliente",
+                "correcta": false
+            },
+            {
+                "texto": "Pequeñas cocinas",
+                "correcta": true
+            },
+            {
+                "texto": "Pastelería",
+                "correcta": false
+            },
+            {
+                "texto": "Economato",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "pregunta": "SI SE ADQUIEREN ARTÍCULOS PARA SIETE O MÁS DÍAS, EL CUARTO DE VERDURAS Y FRUTAS REQUERIRÁ DE INSTALACIONES ESPECIALES, CON REFRIGERACIÓN DE:",
+        "respuestas": [
+            {
+                "texto": "Entre 0 y 3 grados centígrados",
+                "correcta": false
+            },
+            {
+                "texto": "En torno a cuatro grados centígrados",
+                "correcta": false
+            },
+            {
+                "texto": "Cinco grados centígrados",
+                "correcta": false
+            },
+            {
+                "texto": "Unos seis grados centígrados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "pregunta": "SEÑALA LA AFIRMACIÓN INCORRECTA ACERCA DE LA DIVISIÓN DEL LOCAL DE COCINA:",
+        "respuestas": [
+            {
+                "texto": "El cuarto frío debe estar ubicado en lugares lejanos a la cocina caliente",
+                "correcta": true
+            },
+            {
+                "texto": "El economato tendrá un frigorífico para la conservación de la mantequilla, quesos, etc.",
+                "correcta": false
+            },
+            {
+                "texto": "La oficina de control se situará a la entrada de la cocina",
+                "correcta": false
+            },
+            {
+                "texto": "La pastelería se situará junto a un lateral de la cocina caliente",
+                "correcta": false
+            }
+        ]
     }
 ]
