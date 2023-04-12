@@ -2572,5 +2572,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 118,
+        "pregunta": "LOS FOGONES QUE PERMITEN LA AMPLIACIÓN DEL FOGÓN CON INCLUSIÓN DE SERVICIOS ACCESORIOS SE DENOMINAN:",
+        "respuestas": [
+            {
+                "texto": "Fogones murales",
+                "correcta": false
+            },
+            {
+                "texto": "Fogones transportables",
+                "correcta": false
+            },
+            {
+                "texto": "Fogones integrales",
+                "correcta": false
+            },
+            {
+                "texto": "Fogones por elementos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "pregunta": "FOGONES. SEGÚN EL COMBUSTIBLE EMPLEADO. SEÑALA LA AFIRMACIÓN CORRECTA:",
+        "respuestas": [
+            {
+                "texto": "El gas propano es menos pesado que el aire",
+                "correcta": false
+            },
+            {
+                "texto": "El gas ciudad es más pesado que el aire",
+                "correcta": false
+            },
+            {
+                "texto": "La hulla arde fácilmente",
+                "correcta": true
+            },
+            {
+                "texto": "El cok produce mucho humo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "pregunta": "¿A QUÉ TIPO DE CARBÓN PERTENECE LA “GALLETA”?",
+        "respuestas": [
+            {
+                "texto": "Hulla",
+                "correcta": false
+            },
+            {
+                "texto": "Cok",
+                "correcta": false
+            },
+            {
+                "texto": "Antracita",
+                "correcta": true
+            },
+            {
+                "texto": "Turba",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "pregunta": "EL GAS BUTANO DEJA DE GASIFICAR A:",
+        "respuestas": [
+            {
+                "texto": "0 grados centígrados",
+                "correcta": true
+            },
+            {
+                "texto": "5 grados centígrados bajo cero",
+                "correcta": false
+            },
+            {
+                "texto": "10 grados centígrados bajo cero",
+                "correcta": false
+            },
+            {
+                "texto": "12 grados centígrados bajo cero",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "pregunta": "SEÑALA LA AFIRMACIÓN INCORRECTA ACERCA DEL GAS CIUDAD:",
+        "respuestas": [
+            {
+                "texto": "Se extrae del carbón mineral",
+                "correcta": false
+            },
+            {
+                "texto": "No es tóxico",
+                "correcta": true
+            },
+            {
+                "texto": "Es explosivo",
+                "correcta": false
+            },
+            {
+                "texto": "Sus calorías de combustión son parecidas a las del propano",
+                "correcta": false
+            }
+        ]
     }
 ]
