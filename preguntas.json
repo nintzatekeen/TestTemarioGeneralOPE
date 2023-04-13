@@ -2682,5 +2682,423 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 123,
+        "pregunta": "SEÑALA LA AFIRMACIÓN CORRECTA:",
+        "respuestas": [
+            {
+                "texto": "El gas butano es más puro que el gas propano",
+                "correcta": false
+            },
+            {
+                "texto": "El fogón de carbón mineral requiere una técnica de encendido y otra de mantenimiento",
+                "correcta": true
+            },
+            {
+                "texto": "El fogón de gas-oil funciona por calentamiento de resistencias eléctricas",
+                "correcta": false
+            },
+            {
+                "texto": "El uso del gas propano requiere especialización",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "pregunta": "¿CUÁL ES EL GENERADOR DE CALOR QUE TIENE COMO PRINCIPAL APLICACIÓN DORAR LA SUPERFICIE DE CIERTOS PREPARADOS DE COCINA O PASTELERÍA CON RAPIDEZ?",
+        "respuestas": [
+            {
+                "texto": "Freidora",
+                "correcta": false
+            },
+            {
+                "texto": "Prusiana",
+                "correcta": false
+            },
+            {
+                "texto": "Salamandra",
+                "correcta": true
+            },
+            {
+                "texto": "Ninguno de los anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "pregunta": "EL TAMAÑO MÁS APROPIADO DEL CARBÓN A UTILIZAR COMO COMBUSTIBLE EN LAS PRUSIANAS ES DE:",
+        "respuestas": [
+            {
+                "texto": "1 a 2 centímetros",
+                "correcta": false
+            },
+            {
+                "texto": "2 a 3 centímetros",
+                "correcta": false
+            },
+            {
+                "texto": "3 a 4 centímetros",
+                "correcta": false
+            },
+            {
+                "texto": "5 a 8 centímetros",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "pregunta": "¿CUÁL ES EL GAS QUE SE USA EN LA ACTUALIDAD EN LOS SERPENTINES QUE FUNCIONAN POR GAS?",
+        "respuestas": [
+            {
+                "texto": "Sulfuro",
+                "correcta": false
+            },
+            {
+                "texto": "Amoníaco",
+                "correcta": false
+            },
+            {
+                "texto": "Gas propano",
+                "correcta": false
+            },
+            {
+                "texto": "Cloruro de metilo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "pregunta": "LOS SERPENTINES MÁS USADOS EN CÁMARAS DE GRAN TAMAÑO SON:",
+        "respuestas": [
+            {
+                "texto": "Los de enfriamiento por salmuera enfriada",
+                "correcta": false
+            },
+            {
+                "texto": "Los de funcionamiento por gas",
+                "correcta": false
+            },
+            {
+                "texto": "Los de techo",
+                "correcta": true
+            },
+            {
+                "texto": "Los laterales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "pregunta": "LOS MUEBLES SITUADOS DENTRO DE LA COCINA CALIENTE EMPLEADOS EN LA CONSERVACIÓN POR REFRIGERACIÓN A CORTO PLAZO DE GÉNEROS DE USO INMEDIATO O CONSTANTE SE DENOMINAN:",
+        "respuestas": [
+            {
+                "texto": "Pequeñas cámaras",
+                "correcta": false
+            },
+            {
+                "texto": "Armarios frigoríficos",
+                "correcta": true
+            },
+            {
+                "texto": "Cámaras de refrigeración",
+                "correcta": false
+            },
+            {
+                "texto": "Cuartos fríos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "pregunta": "EN LA COCINA CALIENTE, LA SEPARACIÓN MÍNIMA ENTRE LAS MESAS DE TRABAJO SERÁ DE:",
+        "respuestas": [
+            {
+                "texto": "1,2 metros",
+                "correcta": true
+            },
+            {
+                "texto": "1 metro",
+                "correcta": false
+            },
+            {
+                "texto": "0,7 metros",
+                "correcta": false
+            },
+            {
+                "texto": "0,5 metros",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "pregunta": "¿CUÁL DE LAS SIGUIENTES NO ES UNA MEDIDA DE CAPACIDAD EMPLEADA EN COCINA?",
+        "respuestas": [
+            {
+                "texto": "Litro",
+                "correcta": false
+            },
+            {
+                "texto": "Medio litro",
+                "correcta": false
+            },
+            {
+                "texto": "Cuarto de litro",
+                "correcta": false
+            },
+            {
+                "texto": "Decalitro",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "pregunta": "EL ALMIREZ SE EMPLEA PARA:",
+        "respuestas": [
+            {
+                "texto": "Pasar y colar caldos y cremas",
+                "correcta": false
+            },
+            {
+                "texto": "Machacar elementos de condimentación",
+                "correcta": true
+            },
+            {
+                "texto": "Rallar géneros",
+                "correcta": false
+            },
+            {
+                "texto": "Tamizar cremas y salsas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "pregunta": "PARA CORTAR GRANDES PIEZAS, CON HUESOS MUY TIERNOS, UTILIZAREMOS PREFERENTEMENTE:",
+        "respuestas": [
+            {
+                "texto": "Un cuchillo de golpe",
+                "correcta": false
+            },
+            {
+                "texto": "Un cuchillo de medio golpe",
+                "correcta": true
+            },
+            {
+                "texto": "Un cuchillo cebollero",
+                "correcta": false
+            },
+            {
+                "texto": "Una puntilla",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "pregunta": "PARA CORTAR AL AIRE UTILIZAREMOS:",
+        "respuestas": [
+            {
+                "texto": "Un cuchillo de golpe",
+                "correcta": false
+            },
+            {
+                "texto": "Un cuchillo de medio golpe",
+                "correcta": true
+            },
+            {
+                "texto": "Un cuchillo cebollero",
+                "correcta": false
+            },
+            {
+                "texto": "Una puntilla",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "pregunta": "UN TRINCHANTE MEDIANO TIENE UNAS DIMENSIONES DE:",
+        "respuestas": [
+            {
+                "texto": "49 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "40 cm.",
+                "correcta": true
+            },
+            {
+                "texto": "36 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "31 cm.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "pregunta": "SEÑALA LA OPCIÓN INCORRECTA ACERCA DE LAS FREIDORAS:",
+        "respuestas": [
+            {
+                "texto": "La “zona fría” tiene forma de embudo",
+                "correcta": false
+            },
+            {
+                "texto": "La temperatura de mantenimiento cuando no se utilizan puede ser de 140 hasta 160 grados",
+                "correcta": false
+            },
+            {
+                "texto": "La razón del menor ennegrecimiento de la grasa está en la labor del termostato",
+                "correcta": true
+            },
+            {
+                "texto": "La cubeta contenedora de grasa está dividida en tres partes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "pregunta": "EN GENERAL, ¿QUÉ EDIFICIO REQUIERE DE UN MAYOR GRADO DE LIMPIEZA?",
+        "respuestas": [
+            {
+                "texto": "Un edificio comercial",
+                "correcta": false
+            },
+            {
+                "texto": "Un edificio industrial",
+                "correcta": false
+            },
+            {
+                "texto": "Un hospital",
+                "correcta": true
+            },
+            {
+                "texto": "Una instalación deportiva",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "pregunta": "LA FUNCIÓN DE LIMPIEZA HOSPITALARIA…",
+        "respuestas": [
+            {
+                "texto": "No debe interferir con la función principal del cuidado de los enfermos",
+                "correcta": true
+            },
+            {
+                "texto": "Puede interferir levemente con la función principal del cuidado de los enfermos",
+                "correcta": false
+            },
+            {
+                "texto": "Puede interferir moderadamente con la función principal del cuidado de los enfermos",
+                "correcta": false
+            },
+            {
+                "texto": "Debe interferir la función principal del cuidado de los enfermos, puesto que garantiza una mayor desinfección",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "pregunta": "UN BUEN PROGRAMA DE LIMPIEZA HOSPITALARIA REQUIERE DE 3 REQUISITOS BÁSICOS:",
+        "respuestas": [
+            {
+                "texto": "Suficiente personal, productos biodegradables y atención de 24 horas diarias",
+                "correcta": false
+            },
+            {
+                "texto": "Maquinaria moderna, uso de material desechable y rapidez de respuesta ante emergencias",
+                "correcta": false
+            },
+            {
+                "texto": "Personas capaces, buena dirección y evaluación de resultados",
+                "correcta": false
+            },
+            {
+                "texto": "Buen personal, equipo adecuado y procedimientos de limpieza modernos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "pregunta": "PARA QUITAR POLVO DEL SUELO COMO TAREA DIARIA DE MANTENIMIENTO EN ZONAS PÚBLICAS, PASILLOS Y VESTÍBULOS, SE UTILIZAN…",
+        "respuestas": [
+            {
+                "texto": "Mopas enjuagadoras de 45-50 centímetros",
+                "correcta": false
+            },
+            {
+                "texto": "Mopas de impregnación de 1,20 metros",
+                "correcta": true
+            },
+            {
+                "texto": "Cepillos",
+                "correcta": false
+            },
+            {
+                "texto": "Mopas para el fregado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "pregunta": "¿CUÁL DEBE SER EL PRIMER PASO A REALIZAR CUANDO SE FRIEGA CON MOPA Y DOBLE CUBO?",
+        "respuestas": [
+            {
+                "texto": "Retirar las gomas de mascar con la ayuda de un cuchillo",
+                "correcta": false
+            },
+            {
+                "texto": "Preparar la zona poniendo señales de “precaución”",
+                "correcta": true
+            },
+            {
+                "texto": "Fregar a lo largo de los zócalos",
+                "correcta": false
+            },
+            {
+                "texto": "Preparar la disolución de detergente germicida",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "pregunta": "LIMPIEZA DE LAS VENTANAS. PRIMERA PASADA CON EL LIMPIADOR DE VENTANAS:",
+        "respuestas": [
+            {
+                "texto": "Se debe realizar de arriba hacia abajo, empezando por el lado izquierdo de la ventana y superponiendo las pasadas",
+                "correcta": false
+            },
+            {
+                "texto": "Se debe realizar de arriba hacia abajo, empezando por el lado derecho de la ventana y superponiendo las pasadas",
+                "correcta": false
+            },
+            {
+                "texto": "Se pasa por el lado superior de la ventana",
+                "correcta": true
+            },
+            {
+                "texto": "Se pasa por el lado inferior de la ventana",
+                "correcta": false
+            }
+        ]
     }
 ]
