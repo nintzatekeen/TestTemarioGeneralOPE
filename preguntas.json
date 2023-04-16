@@ -2913,7 +2913,7 @@
             },
             {
                 "texto": "Un cuchillo de medio golpe",
-                "correcta": true
+                "correcta": false
             },
             {
                 "texto": "Un cuchillo cebollero",
@@ -2921,7 +2921,7 @@
             },
             {
                 "texto": "Una puntilla",
-                "correcta": false
+                "correcta": true
             }
         ]
     },
