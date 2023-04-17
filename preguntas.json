@@ -3100,5 +3100,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 142,
+        "pregunta": "PARA ENTRAR EN UNA HABITACIÓN AISLADA AL OBJETO DE EFECTUAR LA LIMPIEZA ES NECESARIO…",
+        "respuestas": [
+            {
+                "texto": "Poner bata, guantes de goma y cubrecalzado desechable",
+                "correcta": false
+            },
+            {
+                "texto": "Poner mascarilla, bata y guantes de goma",
+                "correcta": true
+            },
+            {
+                "texto": "Poner mascarilla, gorro y bata",
+                "correcta": false
+            },
+            {
+                "texto": "Poner bata de seguridad, protector ocular y guantes de látex",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "pregunta": "AIREADO DE UNA HABITACIÓN AISLADA: ¿QUÉ TIEMPO HAY QUE ESPERAR PARA ENTRAR EN LA HABITACIÓN DESPUÉS DEL FUMIGADO?",
+        "respuestas": [
+            {
+                "texto": "15 minutos",
+                "correcta": false
+            },
+            {
+                "texto": "30 minutos",
+                "correcta": true
+            },
+            {
+                "texto": "45 minutos",
+                "correcta": false
+            },
+            {
+                "texto": "60 minutos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "pregunta": "LIMPIEZA DE UNA HABITACIÓN OCUPADA POR UN PACIENTE: EL PRIMER PASO A REALIZAR ES…",
+        "respuestas": [
+            {
+                "texto": "Vaciar los cubos de desperdicios",
+                "correcta": true
+            },
+            {
+                "texto": "Quitar el polvo a los muebles",
+                "correcta": false
+            },
+            {
+                "texto": "Limpiar el cuarto de baño",
+                "correcta": false
+            },
+            {
+                "texto": "Quitar las telarañas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "pregunta": "TODO ÚTIL Y MATERIAL UTILIZADO EN LA LIMPIEZA DE UNA HABITACIÓN AISLADA DEBE SER RECOGIDA EN UNA BOLSA DE PLÁSTICO CON LA SIGUIENTE ANOTACIÓN:",
+        "respuestas": [
+            {
+                "texto": "Esterilización",
+                "correcta": true
+            },
+            {
+                "texto": "Desinfección",
+                "correcta": false
+            },
+            {
+                "texto": "Incineración",
+                "correcta": false
+            },
+            {
+                "texto": "Higienización",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "pregunta": "HABITACIÓN AISLADA QUE ACABA DE SER DESOCUPADA: ¿CUÁL DE LOS SIGUIENTES PASOS PRECEDE A LOS OTROS?",
+        "respuestas": [
+            {
+                "texto": "Reponer los utensilios: toallas, jabón, etc.",
+                "correcta": false
+            },
+            {
+                "texto": "Abrillantar los muebles",
+                "correcta": false
+            },
+            {
+                "texto": "Airear la habitación",
+                "correcta": false
+            },
+            {
+                "texto": "Fumigar la habitación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "pregunta": "MÁQUINA RENOVADORA DE SUELOS: ¿QUÉ TIPO DE ESTROPAJOS CONVIENE UTILIZAR EN LOS SUELOS DE VINILO DE LAS ÁREAS PÚBLICAS?",
+        "respuestas": [
+            {
+                "texto": "Estropajo de aluminio",
+                "correcta": true
+            },
+            {
+                "texto": "Estropajo de acero inoxidable",
+                "correcta": false
+            },
+            {
+                "texto": "Estropajo sintético",
+                "correcta": false
+            },
+            {
+                "texto": "Estropajo de fibras naturales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "pregunta": "LAS MANGUERAS DE LOS RESPIRADORES Y EQUIPOS DE TERAPIA RESPIRATORIA…",
+        "respuestas": [
+            {
+                "texto": "Deben cambiarse cada 48 horas y enviarse a esterilizar",
+                "correcta": false
+            },
+            {
+                "texto": "Deben cambiarse cada 48 horas y enviarse a desinfectar",
+                "correcta": false
+            },
+            {
+                "texto": "Deben cambiarse cada 24 horas y enviarse a esterilizar",
+                "correcta": true
+            },
+            {
+                "texto": "Deben cambiarse cada 24 horas y enviarse a desinfectar",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "pregunta": "LIMPIEZA Y DESINFECCIÓN DE ÁREAS CRÍTICAS: LA SOLUCIÓN DESINFECTANTE UTILIZADA ES A BASE DE…",
+        "respuestas": [
+            {
+                "texto": "Clorato de calcio",
+                "correcta": false
+            },
+            {
+                "texto": "Cloruro de manganeso",
+                "correcta": false
+            },
+            {
+                "texto": "Perclorato de potasio",
+                "correcta": false
+            },
+            {
+                "texto": "Hipoclorito de sodio",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "pregunta": "ZONAS DE UN HOSPITAL. SE CONSIDERA UNA ZONA CRÍTICA DE ALTO RIESGO:",
+        "respuestas": [
+            {
+                "texto": "Las habitaciones de descanso",
+                "correcta": false
+            },
+            {
+                "texto": "Los quirófanos",
+                "correcta": true
+            },
+            {
+                "texto": "Las salas de estar",
+                "correcta": false
+            },
+            {
+                "texto": "Los vestíbulos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "pregunta": "¿CUÁL DE LAS SIGUIENTES NO ES UNA TÉCNICA BÁSICA DE LIMPIEZA QUE SE UTILIZA ACTUALMENTE EN LOS QUIRÓFANOS?",
+        "respuestas": [
+            {
+                "texto": "Limpieza con el lavapavimentos",
+                "correcta": false
+            },
+            {
+                "texto": "Limpieza spress",
+                "correcta": true
+            },
+            {
+                "texto": "Limpieza spray",
+                "correcta": false
+            },
+            {
+                "texto": "Mopa y doble cubo",
+                "correcta": false
+            }
+        ]
     }
 ]
