@@ -3320,5 +3320,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 152,
+        "pregunta": "SALVO AUTORIZACIÓN EXPRESA, ¿QUÉ PRODUCTO O ÚTIL NO DEBE SER APLICADO O UTILIZADO NUNCA EN LOS PAVIMENTOS CONDUCTORES DE LOS QUIRÓFANOS?",
+        "respuestas": [
+            {
+                "texto": "Detergente germicida",
+                "correcta": false
+            },
+            {
+                "texto": "Agua",
+                "correcta": false
+            },
+            {
+                "texto": "Disco abrasivo",
+                "correcta": false
+            },
+            {
+                "texto": "Sellador",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "pregunta": "¿QUÉ TIEMPO SE PRECISA PARA ACABAR LA LIMPIEZA DE UNA SALA OPERATORIA Y DE SU SUBESTÉRIL SI SE SIGUEN LAS INSTRUCCIONES CORRECTAMENTE?",
+        "respuestas": [
+            {
+                "texto": "Una hora, aproximadamente",
+                "correcta": false
+            },
+            {
+                "texto": "Una hora y media, aproximadamente",
+                "correcta": false
+            },
+            {
+                "texto": "Dos horas, aproximadamente",
+                "correcta": false
+            },
+            {
+                "texto": "Dos horas y media, aproximadamente",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "pregunta": "RECOGIDA DE LA ROPA SUCIA: DURANTE LA OPERACIÓN EL EMPLEADO DEBE USAR:",
+        "respuestas": [
+            {
+                "texto": "Guantes de caucho, máscara y gorro",
+                "correcta": true
+            },
+            {
+                "texto": "Guantes de cuero, bata y gorro",
+                "correcta": false
+            },
+            {
+                "texto": "Mascarilla, calzado de seguridad y gafas",
+                "correcta": false
+            },
+            {
+                "texto": "Guantes de lana, mascarilla y ropa desechable",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "pregunta": "LA ROPA CONTAMINADA DEBE SER COLOCADA INMEDIATAMENTE EN…",
+        "respuestas": [
+            {
+                "texto": "Sacos de tejido fuerte de algodón",
+                "correcta": false
+            },
+            {
+                "texto": "Sacos de tejido fuerte de nailon",
+                "correcta": false
+            },
+            {
+                "texto": "Sacos de PVC termosellados",
+                "correcta": false
+            },
+            {
+                "texto": "Sacos de plástico autosolubles",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "pregunta": "LOS SACOS DE ROPA SUCIA PUEDEN SER CATALOGADOS POR COLORES, ¿CON QUÉ OBJETO?",
+        "respuestas": [
+            {
+                "texto": "Para distinguir la ropa de distintos colores y evitar así que se transfieran los colores en el lavado",
+                "correcta": false
+            },
+            {
+                "texto": "Para identificar la unidad de procedencia de la ropa",
+                "correcta": true
+            },
+            {
+                "texto": "Para diferenciar el proceso de lavado que se empleará con la ropa",
+                "correcta": false
+            },
+            {
+                "texto": "Para poder clasificarla mejor en el ropero",
+                "correcta": false
+            }
+        ]
     }
 ]
