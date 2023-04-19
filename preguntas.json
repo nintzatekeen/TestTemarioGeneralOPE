@@ -3430,5 +3430,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 157,
+        "pregunta": "EL ELEVADOR USADO EN EL TRASLADO DE LOS SACOS DE LA ROPA SUCIA…",
+        "respuestas": [
+            {
+                "texto": "Sólo se utilizará para este cometido",
+                "correcta": false
+            },
+            {
+                "texto": "Podrá ser utilizado simultáneamente por el carro de ropa limpia pero no por el carro de la comida",
+                "correcta": false
+            },
+            {
+                "texto": "No debe ser utilizado simultáneamente por el carro de la ropa limpia o de la comida",
+                "correcta": true
+            },
+            {
+                "texto": "Podrá ser utilizado simultáneamente por el carro de la comida pero no por el carro de la ropa limpia",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "pregunta": "¿EN QUÉ MATERIAL ESTÁN FABRICADOS LOS SACOS AUTOSOLUBLES?",
+        "respuestas": [
+            {
+                "texto": "En film de hidrógeno etílico translucido",
+                "correcta": false
+            },
+            {
+                "texto": "En film de PVC termostático negro",
+                "correcta": false
+            },
+            {
+                "texto": "En film de acetileno catalizado gris",
+                "correcta": false
+            },
+            {
+                "texto": "En film de alcohol polivinílico transparente",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "pregunta": "EN GENERAL, ¿QUÉ CANTIDAD DEL AGUA UTILIZADA EN EL LAVADO DE LA ROPA ES FRÍA?",
+        "respuestas": [
+            {
+                "texto": "Del 75 al 85%",
+                "correcta": true
+            },
+            {
+                "texto": "Del 50 al 60%",
+                "correcta": false
+            },
+            {
+                "texto": "Del 30 al 40%",
+                "correcta": false
+            },
+            {
+                "texto": "Del 15 al 25%",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "pregunta": "EN GENERAL, ¿CUÁL ES LA OPERACIÓN MÁS RÁPIDA DEL PROCESO DE LAVADO?",
+        "respuestas": [
+            {
+                "texto": "El enjabonado",
+                "correcta": false
+            },
+            {
+                "texto": "Los enjuagues",
+                "correcta": true
+            },
+            {
+                "texto": "El blanqueado",
+                "correcta": false
+            },
+            {
+                "texto": "La acidulación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "pregunta": "LAS MANCHAS DE CAFÉ SE QUITAN CON…",
+        "respuestas": [
+            {
+                "texto": "Ácido acético",
+                "correcta": false
+            },
+            {
+                "texto": "Hielo",
+                "correcta": true
+            },
+            {
+                "texto": "Con disolvente, como la bencina o gasolina",
+                "correcta": false
+            },
+            {
+                "texto": "Acetona o alcohol",
+                "correcta": false
+            }
+        ]
     }
 ]
