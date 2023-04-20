@@ -3540,5 +3540,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 162,
+        "pregunta": " ¿EN CUÁNTO SE REDUCE EL PESO DE LA ROPA TRAS LA ELIMINACIÓN DEL AGUA DURANTE EL CENTRIFUGADO?",
+        "respuestas": [
+            {
+                "texto": "En un 60%",
+                "correcta": true
+            },
+            {
+                "texto": "En un 80%",
+                "correcta": false
+            },
+            {
+                "texto": "En un 50%",
+                "correcta": false
+            },
+            {
+                "texto": "En un 30%",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "pregunta": "¿CUÁL DE LOS SIGUIENTES ASPECTOS NO ES NECESARIO CONSIDERAR EN LA SELECCIÓN DE LA ROPA TRAS EL CENTRIFUGADO?",
+        "respuestas": [
+            {
+                "texto": "El tipo de tejido",
+                "correcta": false
+            },
+            {
+                "texto": "El tipo de ropa",
+                "correcta": false
+            },
+            {
+                "texto": "Las cualidades de limpieza",
+                "correcta": false
+            },
+            {
+                "texto": "La unidad a la que va destinada",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "pregunta": "EL CALANDRADO ES UNA OPERACIÓN…",
+        "respuestas": [
+            {
+                "texto": "Que primero pisa y luego seca las piezas de la ropa lisa",
+                "correcta": false
+            },
+            {
+                "texto": "Que primero seca y luego pisa las piezas de la ropa lisa",
+                "correcta": false
+            },
+            {
+                "texto": "Que pisa y seca al mismo tiempo las piezas de la ropa lisa",
+                "correcta": true
+            },
+            {
+                "texto": "Que pisa las piezas de la ropa lisa previamente secas en la secadora",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "pregunta": "¿CON QUÉ FRECUENCIA DEBERÍAN LIMPIARSE CON UN DETERGENTE GERMICIDA LIMPIO LAS ESTERAS DE GOMA O DE FIBRA DE ALGUNAS ZONAS SUBESTÉRILES?",
+        "respuestas": [
+            {
+                "texto": "Diariamente",
+                "correcta": true
+            },
+            {
+                "texto": "Dos veces a la semana",
+                "correcta": false
+            },
+            {
+                "texto": "Semanalmente",
+                "correcta": false
+            },
+            {
+                "texto": "Después de cada intervención quirúrgica",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "pregunta": "SEÑALA LA AFIRMACIÓN INCORRECTA ACERCA DEL CEMENTO:",
+        "respuestas": [
+            {
+                "texto": "El cemento, mezclado con el agua es una sustancia que está en condiciones de endurecer tanto al aire como debajo del agua",
+                "correcta": false
+            },
+            {
+                "texto": "El frío acelera el fraguado del cemento",
+                "correcta": true
+            },
+            {
+                "texto": "Durante el endurecimiento del cemento se produce un fenómeno de disminución del volumen por pérdida de agua, llamado retracción",
+                "correcta": false
+            },
+            {
+                "texto": "La cantidad de agua que se debe añadir al cemento para conseguir la mezcla idónea es aproximadamente la mitad del peso del cemento",
+                "correcta": false
+            }
+        ]
     }
 ]
