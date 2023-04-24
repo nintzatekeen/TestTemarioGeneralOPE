@@ -3650,5 +3650,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 167,
+        "pregunta": "LOS CEMENTOS RESISTENTES A LOS SULFATOS SON:",
+        "respuestas": [
+            {
+                "texto": "Cementos comunes",
+                "correcta": false
+            },
+            {
+                "texto": "Cementos blancos",
+                "correcta": false
+            },
+            {
+                "texto": "Cementos para usos especiales",
+                "correcta": false
+            },
+            {
+                "texto": "Cementos con características adicionales",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "pregunta": "¿CUÁL DE LAS SIGUIENTES NO ES UNA CARACTERÍSTICA DEL YESO?",
+        "respuestas": [
+            {
+                "texto": "En revestimiento de interior puede aumentar un 30%",
+                "correcta": false
+            },
+            {
+                "texto": "Disminuye ecos y reverberaciones",
+                "correcta": false
+            },
+            {
+                "texto": "Es combustible",
+                "correcta": true
+            },
+            {
+                "texto": "Se puede usar mezclado con otros materiales de revestimiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "pregunta": "EL YESO DE MÁS CALIDAD, EL MÁS CARO Y DE GRANO MÁS FINO ES:",
+        "respuestas": [
+            {
+                "texto": "La escayola",
+                "correcta": true
+            },
+            {
+                "texto": "El yeso negro",
+                "correcta": false
+            },
+            {
+                "texto": "El yeso rojo",
+                "correcta": false
+            },
+            {
+                "texto": "El yeso-cola",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "pregunta": "EL EQUIPO BASE DEL SERVICIO DE ACABADO (PLANCHADO) COMPRENDE:",
+        "respuestas": [
+            {
+                "texto": "La prensa universal y la prensa especial para pantalones",
+                "correcta": false
+            },
+            {
+                "texto": "El maniquí y la mesa de planchado",
+                "correcta": false
+            },
+            {
+                "texto": "La prensa universal, el maniquí y la cabina",
+                "correcta": false
+            },
+            {
+                "texto": "La mesa de planchado y la prensa universal",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "pregunta": "LA PRENSA UNIVERSAL SE COMPONE:",
+        "respuestas": [
+            {
+                "texto": "De un plato recubierto, con un sistema de aspiración accionado con la mano",
+                "correcta": false
+            },
+            {
+                "texto": "De dos platos recubiertos, un sistema de aspiración y un sistema de vaporizado, accionados ambos con el pie o con la mano",
+                "correcta": true
+            },
+            {
+                "texto": "De tres platos recubiertos, un sistema de vaporizado accionado con el pie o la mano",
+                "correcta": false
+            },
+            {
+                "texto": "De cuatro platos recubiertos, un sistema de aspiración y vaporizado combinados, accionado por un sistema hidráulico automático",
+                "correcta": false
+            }
+        ]
     }
 ]
