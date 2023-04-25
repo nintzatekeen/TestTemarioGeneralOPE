@@ -3760,5 +3760,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 172,
+        "pregunta": "CUALIDADES DE LA TELA DE REVESTIMIENTO DE LOS PLATOS DE LA PRENSA UNIVERSAL. INDICAR LA RESPUESTA INCORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Debe ser bastante porosa",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser suficientemente dúctil",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser de un espesor apropiado",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser elástica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "pregunta": "¿CUÁL ES EL MÉTODO MÁS MODERNO PARA CUBRIR EL FONDO DE LA PRENSA UNIVERSAL?",
+        "respuestas": [
+            {
+                "texto": "La espuma siliconizada",
+                "correcta": true
+            },
+            {
+                "texto": "La espuma de goma",
+                "correcta": false
+            },
+            {
+                "texto": "La tela de algodón",
+                "correcta": false
+            },
+            {
+                "texto": "La cubierta de TEFLÓN",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "pregunta": "LA PRENSA UNIVERSAL CLÁSICA…",
+        "respuestas": [
+            {
+                "texto": "Únicamente dispone de sistema de aspiración en el plato superior",
+                "correcta": false
+            },
+            {
+                "texto": "Dispone, en general, de sistema de aspiración en todos los platos",
+                "correcta": false
+            },
+            {
+                "texto": "Únicamente dispone de sistema de vaporización en el plato inferior",
+                "correcta": false
+            },
+            {
+                "texto": "Dispone, en general, de sistema de vaporización en todos los platos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "pregunta": "LA PRODUCTIVIDAD DE LA CALANDRA ESTÁ RELACIONADA CON:",
+        "respuestas": [
+            {
+                "texto": "La superficie del tejido",
+                "correcta": false
+            },
+            {
+                "texto": "La humedad residual de la ropa",
+                "correcta": true
+            },
+            {
+                "texto": "El número de rodillos tractores",
+                "correcta": false
+            },
+            {
+                "texto": "Las revoluciones de la cubeta",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "pregunta": "CALANDRAS CUYA RADIACIÓN TÉRMICA SE REALIZA A TRAVÉS DEL CILINDRO CENTRAL: EL CILINDRO CENTRAL ESTÁ ALIMENTADO…",
+        "respuestas": [
+            {
+                "texto": "Por agua destilada en ebullición",
+                "correcta": false
+            },
+            {
+                "texto": "Eléctricamente, mediante condensadores de alta frecuencia",
+                "correcta": false
+            },
+            {
+                "texto": "Por vapor de alta presión",
+                "correcta": true
+            },
+            {
+                "texto": "Por aceites de gran poder termostático",
+                "correcta": false
+            }
+        ]
     }
 ]
