@@ -3870,5 +3870,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 177,
+        "pregunta": "LA VELOCIDAD DE LOS RODILLOS PERIFÉRICOS DE LAS CALANDRAS DEBE SER:",
+        "respuestas": [
+            {
+                "texto": "Mayor que la del cilindro central",
+                "correcta": true
+            },
+            {
+                "texto": "Menor que la del cilindro central",
+                "correcta": false
+            },
+            {
+                "texto": "Igual a la del cilindro central",
+                "correcta": false
+            },
+            {
+                "texto": "A veces, mayor y, a veces, menor que la del cilindro central",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "pregunta": "CALANDRA DE CUBETA: LA RADIACIÓN TÉRMICA SE PRODUCE…",
+        "respuestas": [
+            {
+                "texto": "A través del cilindro central",
+                "correcta": false
+            },
+            {
+                "texto": "Mediante las lonas de desplazamiento",
+                "correcta": false
+            },
+            {
+                "texto": "Mediante la cubeta",
+                "correcta": true
+            },
+            {
+                "texto": "Mediante el extractor de vahos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. SIEMPRE QUE LA DURACIÓN DE UNA JORNADA EXCEDA DE SEIS HORAS CONTINUADAS EXISTIRÁ UN PERÍODO DE DESCANSO DURANTE LA MISMA:",
+        "respuestas": [
+            {
+                "texto": "La duración de este descanso será equivalente a quince minutos y su disfrute se deberá realizar necesariamente dentro del correspondiente turno de trabajo, no computándose como tiempo de trabajo efectivamente realizado",
+                "correcta": false
+            },
+            {
+                "texto": "La duración de este descanso será equivalente a quince minutos y su disfrute se deberá realizar necesariamente dentro del correspondiente turno de trabajo, computándose en este caso como tiempo de trabajo efectivamente realizado",
+                "correcta": true
+            },
+            {
+                "texto": "La duración de este descanso será equivalente a veinte minutos y su disfrute se deberá realizar necesariamente dentro del correspondiente turno de trabajo, no computándose como tiempo de trabajo efectivamente realizado",
+                "correcta": false
+            },
+            {
+                "texto": "La duración de este descanso será equivalente a veinte minutos y su disfrute se deberá realizar necesariamente dentro del correspondiente turno de trabajo, computándose en este caso como tiempo de trabajo efectivamente realizado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "pregunta": "ACUERDO DE REGULACIÓN DE LAS CONDICIONES DE TRABAJO. SEÑALAR LA AFIRMACIÓN CORRECTA SOBRE EL DISFRUTE DE LAS VACACIONES:",
+        "respuestas": [
+            {
+                "texto": "El disfrute de las vacaciones fuera de los meses entre junio y septiembre, cuando no se produzca a petición del personal, requerirá previo informe favorable de la Dirección de Recursos Humanos de la Organización de servicios en el que figure adscrito el/la trabajador/a",
+                "correcta": false
+            },
+            {
+                "texto": "El disfrute de las vacaciones fuera de los meses entre junio y septiembre se producirá a petición del trabajador/a y previo informe de la representación del personal",
+                "correcta": false
+            },
+            {
+                "texto": "El disfrute de las vacaciones fuera de los meses entre junio y septiembre sólo requerirá solicitud del trabajador en tal sentido. La resolución denegatoria deberá ser motivada",
+                "correcta": false
+            },
+            {
+                "texto": "El disfrute de las vacaciones fuera de los meses entre junio y septiembre se producirá a petición del personal y previo informe favorable de la Dirección de Recursos Humanos de la Organización de servicios en el que figure adscrito el/la trabajador/a",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "pregunta": "PREVENCIÓN DE RIESGOS LABORALES. CUANDO SE TRABAJA SENTADO, ES RECOMENDABLE:",
+        "respuestas": [
+            {
+                "texto": "Arquear la espalda",
+                "correcta": false
+            },
+            {
+                "texto": "Alternar tareas de pie y sentado",
+                "correcta": true
+            },
+            {
+                "texto": "Realizar giros parciales del tronco",
+                "correcta": false
+            },
+            {
+                "texto": "No apoyar la zona lumbar en el respaldo de la silla",
+                "correcta": false
+            }
+        ]
     }
 ]
