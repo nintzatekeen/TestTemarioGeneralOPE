@@ -3980,5 +3980,115 @@
                 "correcta": false
             }
         ]
+    },
+        {
+        "id": 182,
+        "pregunta": "CARPETA ROJA DE PREVENCIÓN. EL INCIDENTE SE DIFERENCIA DEL ACCIDENTE:",
+        "respuestas": [
+            {
+                "texto": "El incidente da lugar a baja laboral",
+                "correcta": false
+            },
+            {
+                "texto": "La lesión o pérdida de salud ocasionada por el incidente es leve",
+                "correcta": false
+            },
+            {
+                "texto": "Los daños ocasionados a equipos, productos o medio ambiente por el incidente son irrelevantes",
+                "correcta": false
+            },
+            {
+                "texto": "El incidente no ocasiona pérdida de salud o lesiones en las personas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "pregunta": "¿QUÉ GENERADOR DE CALOR PUEDE ALCANZAR HASTA 200ºC?",
+        "respuestas": [
+            {
+                "texto": "Freidora",
+                "correcta": true
+            },
+            {
+                "texto": "Marmita",
+                "correcta": false
+            },
+            {
+                "texto": "Mesa caliente",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguno de los anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "pregunta": "SEÑALA LA AFIRMACIÓN CORRECTA ACERCA DE LOS GENERADORES DE CALOR:",
+        "respuestas": [
+            {
+                "texto": "El tamaño de la cubeta de las freidoras es de 20 hasta 500 litros",
+                "correcta": false
+            },
+            {
+                "texto": "Las ollas a presión presentan un mayor peligro de desmenuzamiento",
+                "correcta": false
+            },
+            {
+                "texto": "Las salamandras más corrientes son las murales",
+                "correcta": true
+            },
+            {
+                "texto": "La mesa caliente es el recipiente generador de calor con posibilidad de vaciado rápido por basculación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "pregunta": "LA CACEROLA TIENE UNA CAPACIDAD MÁXIMA DE:",
+        "respuestas": [
+            {
+                "texto": "7 litros",
+                "correcta": false
+            },
+            {
+                "texto": "9 litros",
+                "correcta": false
+            },
+            {
+                "texto": "10 litros",
+                "correcta": false
+            },
+            {
+                "texto": "23 litros",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "pregunta": "LA CAZUELA DE BARRO DE BORDE BAJO INDIVIDUAL MIDE:",
+        "respuestas": [
+            {
+                "texto": "14 cm. de diámetro",
+                "correcta": true
+            },
+            {
+                "texto": "16 cm. de diámetro",
+                "correcta": false
+            },
+            {
+                "texto": "20 cm. de diámetro",
+                "correcta": false
+            },
+            {
+                "texto": "33 cm. de diámetro",
+                "correcta": false
+            }
+        ]
     }
 ]
