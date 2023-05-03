@@ -4090,5 +4090,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 187,
+        "pregunta": "AL PROCEDER A QUITAR EL POLVO DEL SUELO EN UNA HABITACIÓN CON PACIENTES (SEÑALE LA RESPUESTA INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Quite los muebles que haya a su paso y vuélvalos a colocar en su posición correcta",
+                "correcta": false
+            },
+            {
+                "texto": "Actúe con cuidado alrededor de los equipos",
+                "correcta": false
+            },
+            {
+                "texto": "Use una mopa impregnada",
+                "correcta": false
+            },
+            {
+                "texto": "Trabaje empezando por los lados de la habitación hacia el centro y acabando por la zona opuesta a la entrada",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "pregunta": "LIMPIEZA DE UNA HABITACIÓN UNA VEZ QUE EL PACIENTE LA HA DESOCUPADO. SEÑALE EL PASO INCORRECTO:",
+        "respuestas": [
+            {
+                "texto": "Limpiar el colchón y cada pieza de la cama",
+                "correcta": false
+            },
+            {
+                "texto": "Abrillantar los metales",
+                "correcta": false
+            },
+            {
+                "texto": "Esterilizar la taza del water",
+                "correcta": false
+            },
+            {
+                "texto": "Limpiar las cortinas y cortinajes",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "pregunta": "EL TIEMPO DE SOLUBILIZACIÓN DEL SACO AUTOSOLUBLE EN CONTACTO CON EL AGUA CALIENTE (60º)…",
+        "respuestas": [
+            {
+                "texto": "Varía de 10 a 30 minutos",
+                "correcta": false
+            },
+            {
+                "texto": "Varía de 30 a 60 minutos",
+                "correcta": false
+            },
+            {
+                "texto": "Varía de 30 a 120 minutos",
+                "correcta": true
+            },
+            {
+                "texto": "Varía de 60 a 120 minutos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "pregunta": "VENTAJAS DEL USO DE LOS SACOS AUTOSOLUBLES EN EL CAMPO HOSPITALARIO. SEÑALAR AL ALTERNATIVA INCORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Desinfectan el agua de lavado y las aguas residuales",
+                "correcta": false
+            },
+            {
+                "texto": "Desarrollan una acción suavizante en la ropa",
+                "correcta": false
+            },
+            {
+                "texto": "Impide la dispersión de gérmenes infecciosos en el hospital",
+                "correcta": false
+            },
+            {
+                "texto": "Su acción bacteriostática prolonga la vida útil de la ropa por hacerla más resistente a los sucesivos lavados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "pregunta": "EN GENERAL ¿DE QUÉ PORCENTAJE DE LA CAPACIDAD DE LAVADO DE LA MÁQUINA SON LOS LOTES EN QUE SE AGRUPA LA ROPA SUCIA?",
+        "respuestas": [
+            {
+                "texto": "Del 100%",
+                "correcta": false
+            },
+            {
+                "texto": "Del 80%",
+                "correcta": true
+            },
+            {
+                "texto": "Del 70%",
+                "correcta": false
+            },
+            {
+                "texto": "Del 50%",
+                "correcta": false
+            }
+        ]
     }
 ]
