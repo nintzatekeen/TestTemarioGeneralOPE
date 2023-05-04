@@ -4200,5 +4200,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 192,
+        "pregunta": "EL AGUA DEL MORTERO DEBE TENER UN PH:",
+        "respuestas": [
+            {
+                "texto": "Superior a 12",
+                "correcta": false
+            },
+            {
+                "texto": "Superior a 10",
+                "correcta": false
+            },
+            {
+                "texto": "Que no sea inferior a 5 ni superior a 8",
+                "correcta": true
+            },
+            {
+                "texto": "Que no sea inferior a 4 ni superior a 6",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "pregunta": "LOS MORTEROS QUE PRODUCEN UNA CONSIDERABLE REACCIÓN TÉRMICA EN SU FRAGUADO SON:",
+        "respuestas": [
+            {
+                "texto": "Los morteros de yeso",
+                "correcta": false
+            },
+            {
+                "texto": "Los morteros bastardos o mixtos",
+                "correcta": false
+            },
+            {
+                "texto": "Los morteros de cemento aluminoso",
+                "correcta": true
+            },
+            {
+                "texto": "Los morteros de cemento-cola",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "pregunta": "SEÑALA LA AFIRMACIÓN INCORRECTA SOBRE LOS MORTEROS:",
+        "respuestas": [
+            {
+                "texto": "El diámetro de los áridos más grandes no debe de exceder de la mitad de la dimensión de las juntas",
+                "correcta": false
+            },
+            {
+                "texto": "La arena de playa se usará preferentemente en armaduras",
+                "correcta": true
+            },
+            {
+                "texto": "El mortero de cal podrá usarse durante tiempo ilimitado si se conserva en las debidas condiciones",
+                "correcta": false
+            },
+            {
+                "texto": "Morteros grasos son los que tienen mayor cantidad de material base, mucha arena y poco aglomerante",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "pregunta": "SISTEMAS DE CALANDRAS EN EL MERCADO. SEÑALE LA RESPUESTA INCORRECTA:",
+        "respuestas": [
+            {
+                "texto": "Calandra con doble cilindro hidráulico",
+                "correcta": true
+            },
+            {
+                "texto": "Calandra con cubeta",
+                "correcta": false
+            },
+            {
+                "texto": "Calandra con cilindro central con lona conductora",
+                "correcta": false
+            },
+            {
+                "texto": "Calandra con cilindro central y rodillos periféricos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "pregunta": "EL REVESTIMIENTO EXTERNO DEL CILINDRO CENTRAL DE LAS CALANDRAS DE CUBETA…",
+        "respuestas": [
+            {
+                "texto": "Es siempre sintético",
+                "correcta": false
+            },
+            {
+                "texto": "Es siempre de fibra natural",
+                "correcta": false
+            },
+            {
+                "texto": "Es siempre textil",
+                "correcta": true
+            },
+            {
+                "texto": "Puede ser sintético, de fibras naturales o textil",
+                "correcta": false
+            }
+        ]
     }
 ]
