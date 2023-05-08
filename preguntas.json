@@ -4310,5 +4310,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 197,
+        "pregunta": "Al frente de cada organización de servicios sanitarios del Ente Público se encontrará:",
+        "respuestas": [
+            {
+                "texto": "Un/una Director/a General",
+                "correcta": false
+            },
+            {
+                "texto": "Un/una Director/a Gerente.",
+                "correcta": true
+            },
+            {
+                "texto": "Un/una Director/a de Personas.",
+                "correcta": false
+            },
+            {
+                "texto": "El órgano que se determine de forma colegiada por los directivos de cada organización.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "pregunta": "Con carácter ordinario, ¿cuál de las siguientes atribuciones corresponde a la Dirección Médica de una organización de servicios sanitarios del Ente Público?",
+        "respuestas": [
+            {
+                "texto": "Ostentar la jefatura de personal de los facultativos de su organización",
+                "correcta": false
+            },
+            {
+                "texto": "Suscribir el contrato programa.",
+                "correcta": false
+            },
+            {
+                "texto": "Promover y supervisar las actividades de docencia e investigación del personal facultativo de su organización.",
+                "correcta": true
+            },
+            {
+                "texto": "Dirigir, impulsar y coordinar la organización, gestión, evaluación y control interno de los servicios sanitarios.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "pregunta": "Indicar cuál de las siguientes funciones corresponde a la Dirección Gerencia de cada organización de servicios del Ente Público:",
+        "respuestas": [
+            {
+                "texto": "Ejercer la potestad disciplinaria.",
+                "correcta": true
+            },
+            {
+                "texto": "Nombrar y separar al resto de los cargos directivos de la organización de servicios.",
+                "correcta": false
+            },
+            {
+                "texto": "Elaborar el Plan estratégico del Ente Público.",
+                "correcta": false
+            },
+            {
+                "texto": "Representar al Ente Público en la negociación colectiva del Acuerdo Marco de Condiciones de Trabajo del Personal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "pregunta": "Indica cuál de las siguientes entidades NO es una organización de servicios del Ente Publico",
+        "respuestas": [
+            {
+                "texto": "Osatek S.A.",
+                "correcta": false
+            },
+            {
+                "texto": "Onkologikoa.",
+                "correcta": true
+            },
+            {
+                "texto": "Emergencias.",
+                "correcta": false
+            },
+            {
+                "texto": "Centro Vasco de Transfusiones y Tejidos Humanos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "pregunta": "¿Cuál es la duración del periodo de descanso que existe cuando la duración de una jornada exceda de seis horas continuadas y cuándo se disfruta?",
+        "respuestas": [
+            {
+                "texto": "Duración equivalente a quince minutos y se debe disfrutar dentro del correspondiente turno de trabajo",
+                "correcta": true
+            },
+            {
+                "texto": "Duración equivalente a quince minutos y se puede disfrutar a lo largo de los turnos de trabajo de la misma semana natural.",
+                "correcta": false
+            },
+            {
+                "texto": "Duración equivalente a quince minutos y se puede asignar para recuperar déficit de la jornada anual.",
+                "correcta": false
+            },
+            {
+                "texto": "Duración equivalente a veinte minutos y se puede disfrutar en el periodo inmediatamente anterior o posterior al inicio o finalización del turno de trabajo.",
+                "correcta": false
+            }
+        ]
     }
 ]
