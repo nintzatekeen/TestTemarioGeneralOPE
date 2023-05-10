@@ -4420,5 +4420,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 202,
+        "pregunta": "¿Cuál es la duración máxima conjunta de los tiempos de trabajo?",
+        "respuestas": [
+            {
+                "texto": "La duración máxima conjunta de los tiempos de trabajo correspondientes a la jornada ordinaria y a la jornada complementaria será de treinta y cinco horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+                "correcta": false
+            },
+            {
+                "texto": "La duración máxima conjunta de los tiempos de trabajo correspondientes a la jornada ordinaria y a la jornada complementaria será de treinta y siete horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+                "correcta": false
+            },
+            {
+                "texto": "La duración máxima conjunta de los tiempos de trabajo correspondientes a la jornada ordinaria y a la jornada complementaria será de cuarenta horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+                "correcta": false
+            },
+            {
+                "texto": "La duración máxima conjunta de los tiempos de trabajo correspondientes a la jornada ordinaria y a la jornada complementaria será de cuarenta y ocho horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "pregunta": "¿Cuál es el tiempo de trabajo máximo ininterrumpido correspondiente a la jornada ordinaria?:",
+        "respuestas": [
+            {
+                "texto": "El tiempo de trabajo correspondiente a la jornada ordinaria no excederá en ningún caso de doce horas ininterrumpidas.",
+                "correcta": false
+            },
+            {
+                "texto": "El tiempo de trabajo correspondiente a la jornada ordinaria no excederá en ningún caso de diecisiete horas ininterrumpidas.",
+                "correcta": false
+            },
+            {
+                "texto": "El tiempo de trabajo correspondiente a la jornada ordinaria no excederá de doce horas ininterrumpidas. No obstante, mediante la programación funcional de las Organizaciones de servicios de Osakidetza se podrán establecer jornadas ordinarias de hasta veinticuatro horas para determinados servicios o unidades sanitarias, con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales.",
+                "correcta": true
+            },
+            {
+                "texto": "El tiempo de trabajo correspondiente a la jornada ordinaria no excederá en ningún caso de quince horas ininterrumpidas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "pregunta": "¿Cuál es el descanso semanal?",
+        "respuestas": [
+            {
+                "texto": "El personal tendrá derecho a un período mínimo de descanso ininterrumpido con una duración de treinta y seis horas semanales, período que se incrementará con el mínimo de descanso diario de doce horas.",
+                "correcta": false
+            },
+            {
+                "texto": "El personal tendrá derecho a un período mínimo de descanso ininterrumpido con una duración de veinticuatro horas semanales, período que se incrementará con el mínimo de descanso diario de doce horas.",
+                "correcta": true
+            },
+            {
+                "texto": "El personal tendrá derecho a un período mínimo de descanso ininterrumpido con una duración de veinticuatro horas semanales, periodo que incluye el descanso diario de doce horas.",
+                "correcta": false
+            },
+            {
+                "texto": "El personal tendrá derecho a un período mínimo de descanso ininterrumpido con una duración de doce horas semanales, período que se incrementará con el mínimo de descanso diario de doce horas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "pregunta": "¿Cuál es el carácter temporal obligatorio de las carteleras de trabajo?",
+        "respuestas": [
+            {
+                "texto": "Las carteleras de trabajo específicas negociadas en cada Unidad tendrán carácter obligatorio mensual.",
+                "correcta": false
+            },
+            {
+                "texto": "Las carteleras de trabajo específicas negociadas en cada Unidad tendrán carácter obligatorio bimestral.",
+                "correcta": true
+            },
+            {
+                "texto": "Las carteleras de trabajo específicas negociadas en cada Unidad tendrán carácter obligatorio trimestral.",
+                "correcta": false
+            },
+            {
+                "texto": "Las carteleras de trabajo específicas negociadas en cada Unidad tendrán carácter obligatorio cuatrimestral.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "pregunta": "El personal tendrá derecho a disfrutar durante cado año completo de servicio de una vacación retribuida de:",
+        "respuestas": [
+            {
+                "texto": "24 días laborales, computándose los sábados como laborales.",
+                "correcta": false
+            },
+            {
+                "texto": "26 días laborales, computándose los sábados como laborales.",
+                "correcta": false
+            },
+            {
+                "texto": "28 días laborales, computándose los sábados como laborales.",
+                "correcta": true
+            },
+            {
+                "texto": "Los días laborables del mes de agosto de ese año, computándose los sábados como laborales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "pregunta": "¿Cuáles son los componentes del denominado Triángulo de Fuego?",
+        "respuestas": [
+            {
+                "texto": "Combustible y calor o energía de activación.",
+                "correcta": false
+            },
+            {
+                "texto": "Llamas, humo y calor.",
+                "correcta": false
+            },
+            {
+                "texto": "Combustible, comburente y calor o energía de activación.",
+                "correcta": true
+            },
+            {
+                "texto": "Incorrecta instalación, nulo mantenimiento y mala inspección.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "pregunta": "El accidente de trabajo se define como:",
+        "respuestas": [
+            {
+                "texto": "Cualquier suceso no esperado ni deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier suceso no esperado ni deseado que, no dando lugar a pérdidas de salud o lesiones a las personas, pueda ocasionar daños a la propiedad, equipos, productos o al medio ambiente.",
+                "correcta": false
+            },
+            {
+                "texto": "Cualquier suceso buscado expresamente por un tercero que da lugar a pérdidas de la salud o lesiones a los trabajadores.",
+                "correcta": false
+            },
+            {
+                "texto": "Cualquier suceso no esperado ni deseado que da lugar a pérdidas de la salud o lesiones a los trabajadores pero solo cuando provoca la incapacidad laboral del trabajador.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "pregunta": "Qué se entiende como riesgo laboral:",
+        "respuestas": [
+            {
+                "texto": "La probabilidad de que finalice el nombramiento laboral temporal.",
+                "correcta": false
+            },
+            {
+                "texto": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier suceso no esperado ni deseado que, no dando lugar a pérdidas de salud o lesiones a las personas, pueda ocasionar daños a la propiedad, equipos, productos o al medio ambiente",
+                "correcta": false
+            },
+            {
+                "texto": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "pregunta": "Cómo actuar en caso de salpicaduras de sangre o fluidos a piel:",
+        "respuestas": [
+            {
+                "texto": "No hacer nada si la piel está intacta.",
+                "correcta": false
+            },
+            {
+                "texto": "Poner un apósito inmediatamente sin lavar la zona.",
+                "correcta": false
+            },
+            {
+                "texto": "Utilizar un apósito para limpiar la salpicadura de sangre o fluido y aplicar Betadine.",
+                "correcta": false
+            },
+            {
+                "texto": "Lavar con agua y jabón.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "pregunta": "Cuál de las siguientes afirmaciones en relación a la extinción de incendios NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "El agua no es adecuado utilizar en zonas de equipo eléctrico.",
+                "correcta": false
+            },
+            {
+                "texto": "El agua es adecuado utilizar para sofocar un fuego de líquido inflamable (aceite, pintura, etc).",
+                "correcta": true
+            },
+            {
+                "texto": "El polvo polivalente es adecuado para todo tipo de fuegos, de materiales sólidos, líquidos y gases.",
+                "correcta": false
+            },
+            {
+                "texto": "En caso de incendio se debe informar de la situación de emergencia al responsable.",
+                "correcta": false
+            }
+        ]
     }
 ]
