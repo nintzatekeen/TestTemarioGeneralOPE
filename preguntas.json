@@ -4640,5 +4640,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 212,
+        "pregunta": "Es la encargada de transformar, por medio de calor, los alimentos crudos:",
+        "respuestas": [
+            {
+                "texto": "Cocina caliente",
+                "correcta": true
+            },
+            {
+                "texto": "Cuarto frío. ",
+                "correcta": false
+            },
+            {
+                "texto": "Cámara de congelación.",
+                "correcta": false
+            },
+            {
+                "texto": "Mesa caliente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "pregunta": "Sus misiones entre otras son: limpiar y racionar los géneros crudos y distribuirlos en el momento oportuno:",
+        "respuestas": [
+            {
+                "texto": "Cocina caliente.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuarto frío.",
+                "correcta": true
+            },
+            {
+                "texto": "Economato",
+                "correcta": false
+            },
+            {
+                "texto": "Pastelería",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "pregunta": "¿Qué es el Economato?",
+        "respuestas": [
+            {
+                "texto": "Lugar donde se almacenan alimentos perecederos.",
+                "correcta": false
+            },
+            {
+                "texto": "Lugar donde se limpia.",
+                "correcta": false
+            },
+            {
+                "texto": "Lugar donde se almacenan los alimentos no perecederos.",
+                "correcta": true
+            },
+            {
+                "texto": "Lugar donde ir a comprar los alimentos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "pregunta": "La temperatura de la cámara de congelación será del orden de:",
+        "respuestas": [
+            {
+                "texto": "0 grados centígrados.",
+                "correcta": false
+            },
+            {
+                "texto": "12 grados centígrados bajo cero.",
+                "correcta": false
+            },
+            {
+                "texto": "5 grados centígrados bajo cero.",
+                "correcta": false
+            },
+            {
+                "texto": "20 grados centígrados bajo cero.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "pregunta": "La temperatura de la antecámara será del orden de:",
+        "respuestas": [
+            {
+                "texto": "1 a 2 grados centígrados.",
+                "correcta": false
+            },
+            {
+                "texto": "3 a 4 grados centígrados.",
+                "correcta": false
+            },
+            {
+                "texto": "8 a 10 grados centígrados.",
+                "correcta": false
+            },
+            {
+                "texto": "10 a 12 grados centígrados.",
+                "correcta": true
+            }
+        ]
     }
 ]
