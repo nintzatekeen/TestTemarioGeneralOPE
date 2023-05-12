@@ -4750,5 +4750,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 217,
+        "pregunta": "Los fogones, según sus características de acoplamiento, podrán ser:",
+        "respuestas": [
+            {
+                "texto": "Murales, centrales, transportables, integrales o acoplables",
+                "correcta": true
+            },
+            {
+                "texto": "Murales, centrales, plegables, integrales o por elemento.",
+                "correcta": false
+            },
+            {
+                "texto": "Transportables, centrales, plegables, integrales o acoplables.",
+                "correcta": false
+            },
+            {
+                "texto": "Murales, centrales, transportables, integrales o plegables.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "pregunta": "Los fogones, según el combustible empleado, son:",
+        "respuestas": [
+            {
+                "texto": "Gas propano, gas ciudad, carbón mineral, eléctrico y gas-oil.",
+                "correcta": true
+            },
+            {
+                "texto": "Gas natural, gas butano, gas carbónico, eléctrico y gas-oil.",
+                "correcta": false
+            },
+            {
+                "texto": "Gas propano, gas ciudad, carbón mineral, inducción y eléctrico.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "pregunta": "Tiene como misión evitar la salida de gas por los quemadores cuando se apaga la llama:",
+        "respuestas": [
+            {
+                "texto": "Chiclé.",
+                "correcta": false
+            },
+            {
+                "texto": "Tapón de seguridad.",
+                "correcta": false
+            },
+            {
+                "texto": "Válvula de seguridad.",
+                "correcta": true
+            },
+            {
+                "texto": "Interruptor de seguridad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "pregunta": "Antiguo generador de calor, cerrable, con instalación autónoma: ",
+        "respuestas": [
+            {
+                "texto": "Parrilla.",
+                "correcta": false
+            },
+            {
+                "texto": "Brusiana.",
+                "correcta": false
+            },
+            {
+                "texto": "Salamandra.",
+                "correcta": false
+            },
+            {
+                "texto": "Prusiana.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "pregunta": "Utensilio contenedor de agua caliente dentro del cual se sitúan los recipientes contenedores de alimentos para conservarlos calientes por un espacio de tiempo determinado:",
+        "respuestas": [
+            {
+                "texto": "Baño caliente.",
+                "correcta": false
+            },
+            {
+                "texto": "Roner.",
+                "correcta": false
+            },
+            {
+                "texto": "Sous vide.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores.",
+                "correcta": true
+            }
+        ]
     }
 ]
