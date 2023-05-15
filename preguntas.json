@@ -4860,5 +4860,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 222,
+        "pregunta": "Los líquidos o elementos húmedos dentro de una marmita o recipiente a presión podrán alcanzar como máximo:",
+        "respuestas": [
+            {
+                "texto": "140 grados centígrados.",
+                "correcta": false
+            },
+            {
+                "texto": "150 grados centígrados.",
+                "correcta": false
+            },
+            {
+                "texto": "120 grados centígrados.",
+                "correcta": true
+            },
+            {
+                "texto": "100 grados centígrados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "pregunta": "Los gases más usados en la generación de frío en principio fueron:",
+        "respuestas": [
+            {
+                "texto": "El sulfuro y el amoníaco.",
+                "correcta": true
+            },
+            {
+                "texto": "Cloruro de metilo y gas carbónico.",
+                "correcta": false
+            },
+            {
+                "texto": "Gas cianhídrico y el amoníaco.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de la anteriores.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "pregunta": "Las grandes cámaras construidas en albañilería más completas se componen de:",
+        "respuestas": [
+            {
+                "texto": "Motor, serpentines, antecámara y cámara de verduras.",
+                "correcta": false
+            },
+            {
+                "texto": "Motor, serpentines, antecámara, cámara de refrigeración y cámara de congelación.",
+                "correcta": true
+            },
+            {
+                "texto": "Motor, serpentines, antecámara, cámara de verduras y cámara de congelación.",
+                "correcta": false
+            },
+            {
+                "texto": "Motor, serpentines, antecámara, cámara de refrigeración, cámara de congelación y cámara de vinos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "pregunta": "Su misión es aglutinar y emulsionar los pequeños cristalitos de hielo formados en un líquido al contacto con un frío intenso provocado: ",
+        "respuestas": [
+            {
+                "texto": "Batidora de mesa.",
+                "correcta": false
+            },
+            {
+                "texto": "Abatidor.",
+                "correcta": false
+            },
+            {
+                "texto": "Sorbetera.",
+                "correcta": true
+            },
+            {
+                "texto": "Batidora de mano.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "pregunta": "Aplicaciones de la balanza son:",
+        "respuestas": [
+            {
+                "texto": "Pesar hasta un determinado número de kilos (6 a 10).",
+                "correcta": false
+            },
+            {
+                "texto": "Pesar hasta un determinado número de kilos (1 a 2).",
+                "correcta": false
+            },
+            {
+                "texto": "Pesar hasta un determinado número de kilos (4 a 12).",
+                "correcta": false
+            },
+            {
+                "texto": "Pesar hasta un determinado número de kilos (6 a 12).",
+                "correcta": true
+            }
+        ]
     }
 ]
