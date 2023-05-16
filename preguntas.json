@@ -4970,5 +4970,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 227,
+        "pregunta": "Se establece para las mesas de trabajo en lo que se refiere a la amplitud, que cada puesto de trabajo necesita:",
+        "respuestas": [
+            {
+                "texto": "1,30 metros de largo por 0,50 de ancho.",
+                "correcta": false
+            },
+            {
+                "texto": "1,40 metros de largo por 0,70 de ancho.",
+                "correcta": false
+            },
+            {
+                "texto": "1,20 metros de largo por 0,50 de ancho.",
+                "correcta": false
+            },
+            {
+                "texto": "1,20 metros de largo por 0,70 de ancho.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "pregunta": "Se establece como dimensión aproximada de una marmita con tapa:",
+        "respuestas": [
+            {
+                "texto": "De 25 a 60 cm de diámetro, con una altura aproximada de 25 a 60 cm.",
+                "correcta": true
+            },
+            {
+                "texto": "De 25 a 60 cm de diámetro, con una altura aproximada de 45 a 60 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "De 45 a 60 cm de diámetro, con una altura aproximada de 25 a 60 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "pregunta": "Para toda clase de fritos y géneros a la “gran fritura” como croquetas, gambas orly, soldaditos de pavia, etc. se utiliza:",
+        "respuestas": [
+            {
+                "texto": "La sartén escurridor o fritura.",
+                "correcta": true
+            },
+            {
+                "texto": "La salamandra.",
+                "correcta": false
+            },
+            {
+                "texto": "El roner.",
+                "correcta": false
+            },
+            {
+                "texto": "El horno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "pregunta": "Se emplean para medir líquidos:",
+        "respuestas": [
+            {
+                "texto": "Vaso americano.",
+                "correcta": false
+            },
+            {
+                "texto": "Vaso medidor",
+                "correcta": false
+            },
+            {
+                "texto": "Las medidas de capacidad.",
+                "correcta": true
+            },
+            {
+                "texto": "Balanza",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "pregunta": "Se emplea para majar y machacar elementos de condimentación: ",
+        "respuestas": [
+            {
+                "texto": "Colador cónico perforado o “chino”.",
+                "correcta": false
+            },
+            {
+                "texto": "Rallador manual.",
+                "correcta": false
+            },
+            {
+                "texto": "Pasapurés de mano.",
+                "correcta": false
+            },
+            {
+                "texto": "Mortero o almirez.",
+                "correcta": true
+            }
+        ]
     }
 ]
