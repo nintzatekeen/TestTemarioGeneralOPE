@@ -5080,5 +5080,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 232,
+        "pregunta": "Son tipos de cuchillos:",
+        "respuestas": [
+            {
+                "texto": "De golpe, cebollero, chuletero y puntilla.",
+                "correcta": false
+            },
+            {
+                "texto": "De golpe, de medio golpe, chuletero y deshuesador.",
+                "correcta": false
+            },
+            {
+                "texto": "Cebollero, tronchante, puntilla y jamonero.",
+                "correcta": false
+            },
+            {
+                "texto": "De golpe, de medio golpe, cebollero y puntilla.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "pregunta": "Se emplea para cortar huesos:",
+        "respuestas": [
+            {
+                "texto": "Jamonero.",
+                "correcta": false
+            },
+            {
+                "texto": "Trinchante.",
+                "correcta": false
+            },
+            {
+                "texto": "Macheta.",
+                "correcta": true
+            },
+            {
+                "texto": "Puntilla.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "pregunta": "Señala la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "La función de la limpieza y el mantenimiento no debe interferir con la función principal del cuidado de los enfermos.",
+                "correcta": false
+            },
+            {
+                "texto": "El departamento de Limpieza y Mantenimiento de un Hospital es el centro alrededor del cual se desarrollan toda clase de actividades que implican todo un sinfín de responsabilidades.",
+                "correcta": false
+            },
+            {
+                "texto": "Es necesario que los alrededores del hospital ofrezcan un aspecto atractivo.",
+                "correcta": false
+            },
+            {
+                "texto": "Los procedimientos básicos de limpieza en ningún caso pueden ser modificados.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "pregunta": "El objetivo del fregado con mopa y doble cubo es:",
+        "respuestas": [
+            {
+                "texto": "Conseguir una limpieza más esmerada, más higiénica y de más belleza ambiental.",
+                "correcta": true
+            },
+            {
+                "texto": "Dejar en el suelo el detergente germicida el tiempo suficiente para que mate las bacterias.",
+                "correcta": false
+            },
+            {
+                "texto": "Eliminar todo el polvo del pavimento.",
+                "correcta": false
+            },
+            {
+                "texto": "Quitar toda suciedad del suelo, antes de aplicar el nuevo acabado al suelo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "pregunta": "Señala la respuesta que NO es correcta: ",
+        "respuestas": [
+            {
+                "texto": "En el proceso de esterilización de habitaciones hay que ponerse uniforme apropiado, mascarilla y guantes de goma.",
+                "correcta": false
+            },
+            {
+                "texto": "En el proceso de esterilización de habitaciones hay que sellar la habitación.",
+                "correcta": false
+            },
+            {
+                "texto": "En el proceso de esterilización de habitaciones hay que airear la habitación.",
+                "correcta": false
+            },
+            {
+                "texto": "En el proceso de esterilización de habitaciones hay que fumigar al menos durante 15 minutos.",
+                "correcta": true
+            }
+        ]
     }
 ]
