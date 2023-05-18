@@ -5190,5 +5190,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 237,
+        "pregunta": "El objetivo de la limpieza y desinfección de una habitación ocupada aislada es:",
+        "respuestas": [
+            {
+                "texto": "Ofrecer una habitación limpia al nuevo paciente que debe ocuparla.",
+                "correcta": false
+            },
+            {
+                "texto": "Ofrecer una habitación limpia y atractiva al nuevo paciente que debe ocuparla.",
+                "correcta": false
+            },
+            {
+                "texto": "Ofrecer una habitación limpia, higiénica y atractiva usando las más modernas técnicas de asepsia.",
+                "correcta": true
+            },
+            {
+                "texto": "Ofrecer una habitación atractiva al nuevo paciente que debe ocuparla.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "pregunta": "La esterilización es:",
+        "respuestas": [
+            {
+                "texto": "El procedimiento encaminado a disminuir el número de gérmenes de un área.",
+                "correcta": false
+            },
+            {
+                "texto": "El proceso que destruye la mayor parte de microorganismos, pero no todas las formas.",
+                "correcta": false
+            },
+            {
+                "texto": "El proceso mediante el cual se destruyen todos los organismos, tanto patógenos, como no patógenos incluyendo esporas. En término absoluto.",
+                "correcta": true
+            },
+            {
+                "texto": "El proceso mediante el cual se destruyen las bacterias patógenas a través de un agente químico.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "pregunta": "Los antisépticos son:",
+        "respuestas": [
+            {
+                "texto": "Agentes o sustancias fuertes, por lo general de índole químico, que no entran en contacto con el tejido viviente, sino que se aplican a objetos inanimados, destruyendo los microorganismos patógenos.",
+                "correcta": false
+            },
+            {
+                "texto": "Soluciones más débiles porque hay peligro de lesionar tejidos ya que se aplican sobre el cuerpo humano. Con actividad microbiana suficiente para interferir el desarrollo de la infección. ",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier agente químico que retrasa o inhibe el crecimiento de bacterias.",
+                "correcta": false
+            },
+            {
+                "texto": "Cualquier agente químico que destruye bacterias.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "pregunta": "Son agentes o sustancias fuertes, por lo general de índole químico, que no entran en contacto con el tejido viviente, sino que se aplican a objetos inanimados, destruyendo los microorganismos patógenos:",
+        "respuestas": [
+            {
+                "texto": "Bactericidas.",
+                "correcta": false
+            },
+            {
+                "texto": "Antisépticos. ",
+                "correcta": false
+            },
+            {
+                "texto": "Desinfectantes.",
+                "correcta": true
+            },
+            {
+                "texto": "Esterilizantes.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "pregunta": "Señala la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "La limpieza de los pavimentos es una operación muy importante ya que elimina grandes concentraciones de bacterias.",
+                "correcta": false
+            },
+            {
+                "texto": "La limpieza de los pavimentos es una operación muy importante ya que impide la acumulación de materiales no conductores.",
+                "correcta": false
+            },
+            {
+                "texto": "La limpieza de los pavimentos es una operación muy importante ya que evita que el personal resbale.",
+                "correcta": false
+            },
+            {
+                "texto": "Muchos pavimentos de los quirófanos son no conductores para impedir la formación de electricidad estática.",
+                "correcta": true
+            }
+        ]
     }
 ]
