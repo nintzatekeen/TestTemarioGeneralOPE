@@ -5300,5 +5300,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 242,
+        "pregunta": "Respecto al manejo de basuras hospitalarias:",
+        "respuestas": [
+            {
+                "texto": "No deben permanecer recipientes que contengan basuras en áreas de mucha circulación de manera que causen problemas estéticos entre otros.",
+                "correcta": true
+            },
+            {
+                "texto": "La separación de la basura debe hacerse en destino.",
+                "correcta": false
+            },
+            {
+                "texto": "La basura debe apretarse en las bolsas plásticas con el fin de ocupar menos espacio y evitar accidentes.",
+                "correcta": false
+            },
+            {
+                "texto": "La basura debe vaciarse de un recipiente a otro.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "pregunta": "Señala la respuesta que NO es correcta. Entre los efectos nocivos que más comúnmente encontramos originados por los deshechos tenemos: ",
+        "respuestas": [
+            {
+                "texto": "Los contaminantes",
+                "correcta": false
+            },
+            {
+                "texto": "Los tóxicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Los patógenos.",
+                "correcta": false
+            },
+            {
+                "texto": "Los alérgicos.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "pregunta": "Señala la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "La recolección de basura debe efectuarse en horas que no coincidan con las de mayor tránsito (comida, visitas, etc.).",
+                "correcta": false
+            },
+            {
+                "texto": "La basura seca es aquella que proviene de la limpieza diaria, y también se incluye a los residuos sólidos que son recuperables para terceros.",
+                "correcta": false
+            },
+            {
+                "texto": "La basura húmeda es aquella que proviene del servicio de alimentación, cirugía, etc.",
+                "correcta": false
+            },
+            {
+                "texto": "La recolección de basura en cada área del hospital debe tener una frecuencia mínima de una vez cada dos días. ",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "pregunta": "En el procedimiento de quitar el polvo con mopas en zonas públicas, pasillos y vestíbulos, utilizaremos:",
+        "respuestas": [
+            {
+                "texto": "Mopas de impregnación de 1,20 m.",
+                "correcta": true
+            },
+            {
+                "texto": "Mopas de impregnación de 1 m.",
+                "correcta": false
+            },
+            {
+                "texto": "Mopas de impregnación de 80 cm.",
+                "correcta": false
+            },
+            {
+                "texto": "Mopas de impregnación de 30 cm.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "pregunta": "En el procedimiento de quitar el polvo con mopas en habitaciones con pacientes y áreas congestionadas, remplazaremos el cabezal de la mopa:",
+        "respuestas": [
+            {
+                "texto": "Máximo tres veces al día",
+                "correcta": false
+            },
+            {
+                "texto": "Al cambiar de estancia.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando la suciedad ya no pueda ser quitada o vea que está demasiado sucia.",
+                "correcta": true
+            },
+            {
+                "texto": "Todas las respuestas anteriores son correctas.",
+                "correcta": false
+            }
+        ]
     }
 ]
