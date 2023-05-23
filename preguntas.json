@@ -5410,5 +5410,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 247,
+        "pregunta": "En el procedimiento de “Aplicación del acabado de los suelos”:",
+        "respuestas": [
+            {
+                "texto": "Deje que se seque la primera capa durante unos 5 minutos.",
+                "correcta": false
+            },
+            {
+                "texto": "Deje que se seque la primera capa durante unos 20 minutos.",
+                "correcta": true
+            },
+            {
+                "texto": "Deje que se seque la primera capa durante unos 60 minutos.",
+                "correcta": false
+            },
+            {
+                "texto": "Deje que se seque la primera capa durante al menos 24 horas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "pregunta": "En la limpieza de ventanas:",
+        "respuestas": [
+            {
+                "texto": "En la primera pasada con el limpiador de ventanas empezamos por la parte superior de la ventana.",
+                "correcta": true
+            },
+            {
+                "texto": "En la segunda pasada empezamos por la esquina izquierda de la parte inferior de la ventana.",
+                "correcta": false
+            },
+            {
+                "texto": "Utilizaremos un limpiador de ventanas de 2 pulgadas (unos 5 cm).",
+                "correcta": false
+            },
+            {
+                "texto": "En la tercera pasada empezaremos por la parte inferior de la ventana.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "pregunta": "En la limpieza de una habitación que está desocupada:",
+        "respuestas": [
+            {
+                "texto": "Empiece a fregar partiendo de la puerta y siga trabajando a lo largo de la habitación.",
+                "correcta": false
+            },
+            {
+                "texto": "Inspeccione y quite las telarañas.",
+                "correcta": true
+            },
+            {
+                "texto": "Se debe fregar la habitación y el cuarto de baño todos los días, aunque siga desocupada.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 250,
+        "pregunta": "La limpieza y desinfección recurrente en áreas críticas se hace:",
+        "respuestas": [
+            {
+                "texto": "Diariamente y se repite 2 o más veces al día según las condiciones de cada área.",
+                "correcta": true
+            },
+            {
+                "texto": "Periódicamente cada 2 días.",
+                "correcta": false
+            },
+            {
+                "texto": "Periódicamente cada 7 días.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "pregunta": "En los quirófanos, la técnica básica de limpieza empleada actualmente es:",
+        "respuestas": [
+            {
+                "texto": "Limpieza con el lavapavimentos.",
+                "correcta": false
+            },
+            {
+                "texto": "Limpieza spray.",
+                "correcta": false
+            },
+            {
+                "texto": "Mopa y doble cubo.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas son correctas.",
+                "correcta": true
+            }
+        ]
     }
 ]
