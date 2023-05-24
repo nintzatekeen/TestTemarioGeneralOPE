@@ -5520,5 +5520,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 252,
+        "pregunta": "Señala la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "La limpieza diaria de la sala de reanimación incluirá quitar el polvo de los muebles con un detergente germicida.",
+                "correcta": false
+            },
+            {
+                "texto": "La limpieza diaria de la sala de reanimación incluirá limpiar en seco con una mopa todo el pavimento.",
+                "correcta": true
+            },
+            {
+                "texto": "Una limpieza completa de la sala de reanimación debería realizarse, al menos, mensualmente.",
+                "correcta": false
+            },
+            {
+                "texto": "La limpieza completa de la sala de reanimación incluye el lavado de las paredes y los puntos de luz.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "pregunta": "Para depositar los residuos sólidos patógenos y residuos sólidos tóxicos utilizaremos:",
+        "respuestas": [
+            {
+                "texto": "Bolsa plástica color negro.",
+                "correcta": true
+            },
+            {
+                "texto": "Recipiente color rojo.",
+                "correcta": false
+            },
+            {
+                "texto": "Recipiente plástico color verde.",
+                "correcta": false
+            },
+            {
+                "texto": "Recipiente color naranja.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "pregunta": "Cuando un producto tiene un coeficiente de fenol del 2, quiere decir que es aproximadamente:",
+        "respuestas": [
+            {
+                "texto": "Unas 2 veces más efectivo que el ácido carbónico.",
+                "correcta": false
+            },
+            {
+                "texto": "Unas 20 veces más efectivo que el ácido carbónico.",
+                "correcta": false
+            },
+            {
+                "texto": "Unas 40 veces más efectivo que el ácido carbónico.",
+                "correcta": true
+            },
+            {
+                "texto": "Unas 80 veces más efectivo que el ácido carbónico.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "pregunta": "El “agente chelating” es un producto limpiador que:",
+        "respuestas": [
+            {
+                "texto": "En un detergente incrementa la efectividad del producto.",
+                "correcta": true
+            },
+            {
+                "texto": "Aporta espuma jabonosa.",
+                "correcta": false
+            },
+            {
+                "texto": "Reduce la espuma jabonosa.",
+                "correcta": false
+            },
+            {
+                "texto": "Al combinarse con materiales solubles los convierte en insolubles.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "pregunta": "El cambio de ropa de las camas y de los pacientes estimado en hospital de urgencias es:",
+        "respuestas": [
+            {
+                "texto": "4 kg/cama/día.",
+                "correcta": false
+            },
+            {
+                "texto": "6 kg/cama/día.",
+                "correcta": true
+            },
+            {
+                "texto": "2 kg/cama/día.",
+                "correcta": false
+            },
+            {
+                "texto": "7 u 8 kg/cama/día.",
+                "correcta": false
+            }
+        ]
     }
 ]
