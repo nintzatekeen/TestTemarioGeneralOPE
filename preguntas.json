@@ -5630,5 +5630,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 257,
+        "pregunta": "El equipamiento destinado a pasar ropa de personal, donde se esteriliza la ropa es la:",
+        "respuestas": [
+            {
+                "texto": "Centrífuga o extractora.",
+                "correcta": false
+            },
+            {
+                "texto": "Calandra.",
+                "correcta": false
+            },
+            {
+                "texto": "Plancha de vapor.",
+                "correcta": false
+            },
+            {
+                "texto": "Prensa.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 258,
+        "pregunta": "El vapor consumido en la lavandería para el calentamiento del agua, secadoras, calandras y prensas debe ser de:",
+        "respuestas": [
+            {
+                "texto": "No se necesita vapor.",
+                "correcta": false
+            },
+            {
+                "texto": "Vapor de baja presión.",
+                "correcta": false
+            },
+            {
+                "texto": "Vapor de alta presión.",
+                "correcta": true
+            },
+            {
+                "texto": "Vapor de media presión.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "pregunta": "Los Sacos Autodisolubles:",
+        "respuestas": [
+            {
+                "texto": "Permiten el transporte de la ropa sucia e infectada.",
+                "correcta": true
+            },
+            {
+                "texto": "Están fabricados en film opaco.",
+                "correcta": false
+            },
+            {
+                "texto": "Son permeables a cualquier tipo de transpiración de gas, etc.",
+                "correcta": false
+            },
+            {
+                "texto": "Son tóxicos para el organismo humano.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 260,
+        "pregunta": "El ciclo para el lavado de ropa con suciedad más acusada comienza con:",
+        "respuestas": [
+            {
+                "texto": "El remojado previo.",
+                "correcta": false
+            },
+            {
+                "texto": "El prelavado",
+                "correcta": false
+            },
+            {
+                "texto": "La humectación.",
+                "correcta": true
+            },
+            {
+                "texto": "La vaporización.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 261,
+        "pregunta": "Si el nivel del agua estuviera demasiado alto, durante los enjabonamientos, blanqueado y acidulación, puede ocurrir:",
+        "respuestas": [
+            {
+                "texto": "Menor costo",
+                "correcta": false
+            },
+            {
+                "texto": "Menor necesidad de productos de lavado.",
+                "correcta": false
+            },
+            {
+                "texto": "Permanencia de los residuos de productos.",
+                "correcta": false
+            },
+            {
+                "texto": "Menor acción mecánica.",
+                "correcta": true
+            }
+        ]
     }
 ]
