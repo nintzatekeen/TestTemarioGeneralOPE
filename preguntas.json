@@ -5740,5 +5740,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 262,
+        "pregunta": "Cuando el jabón es colocado en demasiada cantidad, produce exceso de espuma…",
+        "respuestas": [
+            {
+                "texto": "Facilitando el proceso de lavado.",
+                "correcta": false
+            },
+            {
+                "texto": "Dificulta el enjuague.",
+                "correcta": true
+            },
+            {
+                "texto": "Aumentando la concentración de la solución.",
+                "correcta": false
+            },
+            {
+                "texto": "Mejora la acción mecánica.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "pregunta": "El blanqueador debe ser adicionado en la última enjabonada o en el primer enjuagado, para:",
+        "respuestas": [
+            {
+                "texto": "Neutralizar los residuos alcalinos de la ropa.",
+                "correcta": false
+            },
+            {
+                "texto": "Evitar que los efectos del cloro sean disminuidos por la presencia de materias orgánicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Economizar agua, tiempo y energía.",
+                "correcta": false
+            },
+            {
+                "texto": "Evitar amarillear la ropa en el secado y el calandrado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "pregunta": "En la termodesinfección debe usarse la temperatura:",
+        "respuestas": [
+            {
+                "texto": "De 85 a 95ºC, durante 15 minutos.",
+                "correcta": true
+            },
+            {
+                "texto": "De 85 a 95ºC, de 5 a 10 minutos.",
+                "correcta": false
+            },
+            {
+                "texto": "De 75 a 85ºC, durante 15 minutos.",
+                "correcta": false
+            },
+            {
+                "texto": "De 75 a 85ºC, de 5 a 10 minutos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "pregunta": "Quitaremos las manchas de sangre:",
+        "respuestas": [
+            {
+                "texto": "A través de un prelavado con agua fría.",
+                "correcta": true
+            },
+            {
+                "texto": "A través de un prelavado con agua caliente.",
+                "correcta": false
+            },
+            {
+                "texto": "Aplicando alcohol.",
+                "correcta": false
+            },
+            {
+                "texto": "Con ácido acético.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 266,
+        "pregunta": "El calandrado es una operación que seca y pisa al mismo tiempo:",
+        "respuestas": [
+            {
+                "texto": "Los uniformes.",
+                "correcta": false
+            },
+            {
+                "texto": "Las piezas pesadas.",
+                "correcta": false
+            },
+            {
+                "texto": "Las piezas pequeñas.",
+                "correcta": false
+            },
+            {
+                "texto": "Las piezas de la ropa lisa.",
+                "correcta": true
+            }
+        ]
     }
 ]
