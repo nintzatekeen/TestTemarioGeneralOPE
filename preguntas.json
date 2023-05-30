@@ -5850,5 +5850,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 267,
+        "pregunta": "El cemento es un ligante hidráulico, o sea, una sustancia que mezclada con el agua, está en condiciones de endurecer:",
+        "respuestas": [
+            {
+                "texto": "Al aire. ",
+                "correcta": false
+            },
+            {
+                "texto": "Tanto al aire como debajo del agua.",
+                "correcta": true
+            },
+            {
+                "texto": "Debajo del agua.",
+                "correcta": false
+            },
+            {
+                "texto": "En condiciones climatológicas idóneas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 268,
+        "pregunta": "¿Cuál es el aglomerante más utilizado en la confección de morteros?",
+        "respuestas": [
+            {
+                "texto": "Cal.",
+                "correcta": false
+            },
+            {
+                "texto": "Arena.",
+                "correcta": false
+            },
+            {
+                "texto": "Portland.",
+                "correcta": true
+            },
+            {
+                "texto": "Agua.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "pregunta": "¿Qué tipo de agua usaremos para hacer un mortero?",
+        "respuestas": [
+            {
+                "texto": "Cualquier tipo de agua.",
+                "correcta": false
+            },
+            {
+                "texto": "Agua de mar.",
+                "correcta": false
+            },
+            {
+                "texto": "Agua potable.",
+                "correcta": true
+            },
+            {
+                "texto": "Agua de rio.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 270,
+        "pregunta": "Los principales componentes del hormigón son:",
+        "respuestas": [
+            {
+                "texto": "Cemento, arena y agua.",
+                "correcta": false
+            },
+            {
+                "texto": "Cemento, arena, árido grueso y agua.",
+                "correcta": false
+            },
+            {
+                "texto": "Cemento, árido fino, y agua.",
+                "correcta": false
+            },
+            {
+                "texto": "Cemento, arena, árido fino y agua.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "pregunta": "En épocas de mucho calor, para evitar la evaporación del agua del amasado del hormigón:",
+        "respuestas": [
+            {
+                "texto": "Se suspenderá el hormigonado a más de 35ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "Se suspenderá el hormigonado a más de 38ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "Se suspenderá el hormigonado a más de 40ºC.",
+                "correcta": true
+            },
+            {
+                "texto": "Se suspenderá el hormigonado a más de 42ºC.",
+                "correcta": false
+            }
+        ]
     }
 ]
