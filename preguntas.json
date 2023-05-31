@@ -5960,5 +5960,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 272,
+        "pregunta": "El sistema que utiliza dos redes independientes, una para aguas pluviales y otra para aguas residuales, recibe el nombre de:",
+        "respuestas": [
+            {
+                "texto": "Sistema unitario.",
+                "correcta": false
+            },
+            {
+                "texto": "Red vertical.",
+                "correcta": false
+            },
+            {
+                "texto": "Sifón individual.",
+                "correcta": false
+            },
+            {
+                "texto": "Sistema separativo.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "pregunta": "En cuanto a los fregaderos, lavaderos y electrodomésticos con alimentación de agua al desagüe, se hace con:",
+        "respuestas": [
+            {
+                "texto": "Un sifón individual.",
+                "correcta": true
+            },
+            {
+                "texto": "Un bote sinfónico.",
+                "correcta": false
+            },
+            {
+                "texto": "Un sifón hidráulico.",
+                "correcta": false
+            },
+            {
+                "texto": "Sifones colectivos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 274,
+        "pregunta": "En las redes de evacuación de aguas, se emplean diversos materiales. En los últimos años los más utilizados son:",
+        "respuestas": [
+            {
+                "texto": "Gres y plomo.",
+                "correcta": false
+            },
+            {
+                "texto": "Hierro fundido y cemento.",
+                "correcta": false
+            },
+            {
+                "texto": "Plásticos y fibrocemento. ",
+                "correcta": true
+            },
+            {
+                "texto": "Cerámica vidriada y gres. ",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "pregunta": "Como mínimo, ¿con cuántos centímetros de hormigón debe estar cubierta la armadura para evitar su degradación?",
+        "respuestas": [
+            {
+                "texto": "Un centímetro.",
+                "correcta": false
+            },
+            {
+                "texto": "Dos centímetros.",
+                "correcta": true
+            },
+            {
+                "texto": "Tres centímetros.",
+                "correcta": false
+            },
+            {
+                "texto": "Cinco centímetros.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 276,
+        "pregunta": "¿Cuál de los siguientes materiales de revestimiento, su función es estrictamente de decoración?",
+        "respuestas": [
+            {
+                "texto": "Revestimiento plástico.",
+                "correcta": false
+            },
+            {
+                "texto": "Mortero monocapa.",
+                "correcta": false
+            },
+            {
+                "texto": "Mortero acrílico.",
+                "correcta": false
+            },
+            {
+                "texto": "Mortero de cal.",
+                "correcta": true
+            }
+        ]
     }
 ]
