@@ -6070,5 +6070,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 277,
+        "pregunta": "En un hormigón bien dosificado de cemento ¿Cuál es la profundidad a la que llega la carbonatación en ocho años?",
+        "respuestas": [
+            {
+                "texto": "2 mm.",
+                "correcta": false
+            },
+            {
+                "texto": "6 mm.",
+                "correcta": false
+            },
+            {
+                "texto": "10 mm.",
+                "correcta": true
+            },
+            {
+                "texto": "20 mm.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "pregunta": "En el taller de planchado es importante:",
+        "respuestas": [
+            {
+                "texto": "Tener todos los aparatos muy juntos.",
+                "correcta": false
+            },
+            {
+                "texto": "Buena calefacción.",
+                "correcta": false
+            },
+            {
+                "texto": "Un humidificador.",
+                "correcta": false
+            },
+            {
+                "texto": "Buena aireación.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 279,
+        "pregunta": "El factor MÁS importante para obtener un buen planchado es:",
+        "respuestas": [
+            {
+                "texto": "La humedad.",
+                "correcta": false
+            },
+            {
+                "texto": "La presión.",
+                "correcta": false
+            },
+            {
+                "texto": "El calor.",
+                "correcta": true
+            },
+            {
+                "texto": "El descenso brusco de la temperatura del tejido después del calentamiento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 280,
+        "pregunta": "La excesiva vaporización en el proceso del planchado puede producir:",
+        "respuestas": [
+            {
+                "texto": "Fatiga al operador.",
+                "correcta": true
+            },
+            {
+                "texto": "Disolución del tejido.",
+                "correcta": false
+            },
+            {
+                "texto": "Holgura en tejidos de algodón.",
+                "correcta": false
+            },
+            {
+                "texto": "Endurecimiento del tejido.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "pregunta": "En el planchado:",
+        "respuestas": [
+            {
+                "texto": "La operación de vacío es menos importante que la vaporización.",
+                "correcta": false
+            },
+            {
+                "texto": "El vacío es el que da consistencia a la pieza.",
+                "correcta": true
+            },
+            {
+                "texto": "En la operación de vacío será suficiente un ligero toque de pedal. ",
+                "correcta": false
+            },
+            {
+                "texto": "La recomendación en general es que el tiempo de vacío no debe ser menor de quince segundos.",
+                "correcta": false
+            }
+        ]
     }
 ]
