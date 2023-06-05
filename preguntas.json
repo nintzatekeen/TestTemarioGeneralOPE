@@ -6180,5 +6180,115 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 282,
+        "pregunta": "El poliéster soporta una temperatura hasta:",
+        "respuestas": [
+            {
+                "texto": "110ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "150ºC.",
+                "correcta": true
+            },
+            {
+                "texto": "200ºC.",
+                "correcta": false
+            },
+            {
+                "texto": "245ºC.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 283,
+        "pregunta": "La prensa universal de planchado:",
+        "respuestas": [
+            {
+                "texto": "Lleva accesorios diversos como el soporte para la plancha.",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene un ciclo de 4 tiempos.",
+                "correcta": false
+            },
+            {
+                "texto": "Se compone de dos platos recubiertos.",
+                "correcta": true
+            },
+            {
+                "texto": "Puede ser con bancada de forma rectangular o contorneada.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 284,
+        "pregunta": "Cualidades que debe tener el revestimiento de tela de la prensa universal de planchado:",
+        "respuestas": [
+            {
+                "texto": "Ser lisa, para no dejar marcas en los tejidos finos.",
+                "correcta": true
+            },
+            {
+                "texto": "Ser impermeable al vapor.",
+                "correcta": false
+            },
+            {
+                "texto": "Ser de seda natural.",
+                "correcta": false
+            },
+            {
+                "texto": "Ser suficientemente rígida.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 285,
+        "pregunta": "El sistema de aspiración de la prensa universal se encuentra:",
+        "respuestas": [
+            {
+                "texto": "En el plato inferior.",
+                "correcta": true
+            },
+            {
+                "texto": "En el plato superior.",
+                "correcta": false
+            },
+            {
+                "texto": "En ambos platos.",
+                "correcta": false
+            },
+            {
+                "texto": "La prensa universal no tiene este sistema.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 286,
+        "pregunta": "¿Cuál NO es un tipo de mesa de planchado?",
+        "respuestas": [
+            {
+                "texto": "Mesa calentadora.",
+                "correcta": false
+            },
+            {
+                "texto": "Mesa aspirante. ",
+                "correcta": false
+            },
+            {
+                "texto": "Mesa vaporizante",
+                "correcta": false
+            },
+            {
+                "texto": "Mesa irradiante.",
+                "correcta": true
+            }
+        ]
     }
 ]
