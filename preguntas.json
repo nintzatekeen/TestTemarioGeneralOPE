@@ -6290,5 +6290,115 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 287,
+        "pregunta": "El recubrimiento de la mesa de planchar:",
+        "respuestas": [
+            {
+                "texto": "Debe ser impermeable.",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser duro y compacto.",
+                "correcta": false
+            },
+            {
+                "texto": "Necesita 'elasticidad'.",
+                "correcta": true
+            },
+            {
+                "texto": "Consiste en una funda de espuma siliconizada.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "pregunta": "Las cabinas y túneles de acabado del proceso de planchado:",
+        "respuestas": [
+            {
+                "texto": "Permiten tratar simultáneamente más de 25 prendas.",
+                "correcta": false
+            },
+            {
+                "texto": "Eliminan completamente las arrugas de uso de las entrepiernas de pantalones. ",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos trabajan continuamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Interesan especialmente para artículos de punto sintéticos o naturales.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 289,
+        "pregunta": "Se emplea para la conservación de alimentos crudos, y también de géneros cocinados. Su temperatura será de 1 a 2 grados centígrados aproximadamente:",
+        "respuestas": [
+            {
+                "texto": "Antecámara.",
+                "correcta": false
+            },
+            {
+                "texto": "Cámara de refrigeración.",
+                "correcta": true
+            },
+            {
+                "texto": "Cámara de congelación.",
+                "correcta": false
+            },
+            {
+                "texto": "Abatidor de temperatura.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 290,
+        "pregunta": "Se emplea para cortar grandes piezas, incluso con huesos muy tiernos:",
+        "respuestas": [
+            {
+                "texto": "Macheta.",
+                "correcta": false
+            },
+            {
+                "texto": "Medio golpe.",
+                "correcta": true
+            },
+            {
+                "texto": "Cebollero.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de la anteriores.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "pregunta": "Utensilios y equipo necesario para el abrillantado de suelos:",
+        "respuestas": [
+            {
+                "texto": "Máquina fregadora provista de cepillos abrillantadores.",
+                "correcta": false
+            },
+            {
+                "texto": "Discos de lana de acero o discos abrillantadores sintéticos.",
+                "correcta": false
+            },
+            {
+                "texto": "Mopas de fregar de 24 onzas (unos 680 gr) para las áreas públicas.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las respuestas anteriores son correctas.",
+                "correcta": true
+            }
+        ]
     }
 ]
