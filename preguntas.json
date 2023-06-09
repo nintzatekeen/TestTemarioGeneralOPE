@@ -6400,5 +6400,159 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 292,
+        "pregunta": "La limpieza y desinfección terminal en áreas críticas se hace:",
+        "respuestas": [
+            {
+                "texto": "Diariamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Periódicamente cada 2 días.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando sale un paciente infectado o periódicamente cada 8 días.",
+                "correcta": true
+            },
+            {
+                "texto": "Ninguna es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "pregunta": "La máquina de lavar más utilizada en la lavandería de los hospitales modernos es:",
+        "respuestas": [
+            {
+                "texto": "Una lavadora convencional, con control manual y automático.",
+                "correcta": false
+            },
+            {
+                "texto": "Una lavadora-extractora, que combina el proceso de lavado con la centrifugación o acondicionamiento.",
+                "correcta": false
+            },
+            {
+                "texto": "Una lavadora de desinfección, que queda encajada entre paredes o barrera contra la contaminación.",
+                "correcta": true
+            },
+            {
+                "texto": "Una lavadora continua, también llamada túnel de lavado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 294,
+        "pregunta": "Los tejidos para la confección de la ropa más utilizados en el hospital son:",
+        "respuestas": [
+            {
+                "texto": "Algodón y poliéster/algodón.",
+                "correcta": true
+            },
+            {
+                "texto": "Algodón y viscosa.",
+                "correcta": false
+            },
+            {
+                "texto": "Algodón y lino.",
+                "correcta": false
+            },
+            {
+                "texto": "Algodón y poliamida.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 295,
+        "pregunta": "En el planchado, el equipo base de servicio de acabado comprende:",
+        "respuestas": [
+            {
+                "texto": "La prensa universal y el túnel de acabado.",
+                "correcta": false
+            },
+            {
+                "texto": "La prensa universal y la mesa de planchado.",
+                "correcta": true
+            },
+            {
+                "texto": "La prensa universal y la cabina.",
+                "correcta": false
+            },
+            {
+                "texto": "La prensa universal y el Pan-Topper.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "pregunta": "¿Cuándo se establece el calendario de vacaciones?:",
+        "respuestas": [
+            {
+                "texto": "Dentro de los cuatro primeros meses del año, se fijará el calendario de vacaciones.",
+                "correcta": true
+            },
+            {
+                "texto": "Dentro de los tres primeros meses del año, se fijará el calendario de vacaciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Dentro de los seis primeros meses del año, se fijará el calendario de vacaciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Dentro de plazo establecido por la Dirección Gerencia que se comunicará dentro de los cuatro primeros meses del año, se fijará el calendario de vacaciones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 297,
+        "pregunta": "Cuando, por necesidades del servicio, la Dirección de Recursos Humanos de la Organización de servicios correspondiente modifique al personal la fecha de disfrute de sus vacaciones ya establecidas en el calendario: ",
+        "respuestas": [
+            {
+                "texto": "deberá compensar a los/as afectados/as con una ampliación de sus retribuciones equivalente a 2 días laborables.",
+                "correcta": false
+            },
+            {
+                "texto": "deberá compensar a los/as afectados/as con una ampliación de su período vacacional de 2 días laborables.",
+                "correcta": true
+            },
+            {
+                "texto": "deberá compensar a los/as afectados/as con una ampliación de su período vacacional de 3 días laborables.",
+                "correcta": false
+            },
+            {
+                "texto": "deberá compensar a los/as afectados/as con una ampliación de su período vacacional equivalente al periodo modificado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 298,
+        "pregunta": "Licencia por traslado o mudanza del domicilio habitual. Con motivo de efectuarse el traslado o mudanza del domicilio habitual, se tendrá derecho a:",
+        "respuestas": [
+            {
+                "texto": "2 días hábiles, dentro del plazo de un mes natural a contar desde el empadronamiento.",
+                "correcta": false
+            },
+            {
+                "texto": "2 días naturales, dentro del plazo de 2 meses naturales a contar desde el empadronamiento.",
+                "correcta": false
+            },
+            {
+                "texto": "2 días naturales, dentro del plazo de un mes natural a contar desde el empadronamiento.",
+                "correcta": true
+            },
+            {
+                "texto": "2 días hábiles, dentro del plazo de 2 meses naturales a contar desde el empadronamiento.",
+                "correcta": false
+            }
+        ]
     }
 ]
